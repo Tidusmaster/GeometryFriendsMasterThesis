@@ -1,0 +1,3213 @@
+0,01 - Roll Right
+0,02 - Roll Right
+0,03 - Roll Right
+0,04 - Roll Right
+0,05 - Roll Right
+0,06 - Roll Right
+0,07 - Roll Right
+0,08 - Roll Right
+0,09 - Roll Right
+0,1 - Roll Right
+0,11 - Roll Right
+0,12 - Roll Right
+0,13 - Roll Right
+0,14 - Roll Right
+0,15 - Roll Right
+0,16 - Roll Right
+0,17 - Roll Right
+0,18 - Roll Right
+0,19 - Roll Right
+0,2 - Roll Right
+0,21 - Roll Right
+0,22 - Roll Right
+0,23 - Roll Right
+0,24 - Roll Right
+0,25 - Roll Right
+0,26 - Roll Right
+0,27 - Roll Right
+0,28 - Roll Right
+0,29 - Roll Right
+0,3 - Roll Right
+0,31 - Roll Right
+0,32 - Roll Right
+0,33 - Roll Right
+0,34 - Roll Right
+0,35 - Roll Right
+0,36 - Roll Right
+0,37 - Roll Right
+0,38 - Roll Right
+0,39 - Roll Right
+0,4 - Roll Right
+0,41 - Roll Right
+0,42 - Roll Right
+0,43 - Roll Right
+0,44 - Roll Right
+0,45 - Roll Right
+0,46 - JUMP
+0,47 - JUMP
+0,48 - JUMP
+0,49 - JUMP
+0,5 - JUMP
+0,51 - JUMP
+0,52 - JUMP
+0,53 - JUMP
+0,54 - JUMP
+0,55 - JUMP
+0,56 - JUMP
+0,57 - JUMP
+0,58 - JUMP
+0,59 - JUMP
+0,6 - JUMP
+0,61 - JUMP
+0,62 - JUMP
+0,63 - JUMP
+0,64 - JUMP
+0,65 - JUMP
+0,66 - JUMP
+0,67 - JUMP
+0,68 - JUMP
+0,69 - JUMP
+0,7 - JUMP
+0,71 - JUMP
+0,72 - JUMP
+0,73 - JUMP
+0,74 - JUMP
+0,75 - JUMP
+0,76 - JUMP
+0,77 - JUMP
+0,78 - JUMP
+0,79 - JUMP
+0,8 - JUMP
+0,81 - JUMP
+0,82 - JUMP
+0,83 - JUMP
+0,84 - JUMP
+0,85 - JUMP
+0,86 - JUMP
+0,87 - JUMP
+0,88 - JUMP
+0,89 - JUMP
+0,9 - JUMP
+0,91 - JUMP
+0,92 - JUMP
+0,93 - JUMP
+0,94 - JUMP
+0,95 - JUMP
+0,96 - JUMP
+0,97 - JUMP
+0,98 - JUMP
+0,99 - JUMP
+1 - JUMP
+1,01 - JUMP
+1,02 - JUMP
+1,03 - JUMP
+1,04 - JUMP
+1,05 - JUMP
+1,06 - JUMP
+1,07 - JUMP
+1,08 - JUMP
+1,09 - JUMP
+1,1 - JUMP
+1,11 - JUMP
+1,12 - JUMP
+1,13 - JUMP
+1,14 - JUMP
+1,15 - JUMP
+1,16 - JUMP
+1,17 - JUMP
+1,18 - JUMP
+1,19 - JUMP
+1,2 - JUMP
+1,21 - JUMP
+1,22 - JUMP
+1,23 - JUMP
+1,24 - JUMP
+1,25 - JUMP
+1,26 - JUMP
+1,27 - JUMP
+1,28 - JUMP
+1,29 - JUMP
+1,3 - JUMP
+1,31 - JUMP
+1,32 - JUMP
+1,33 - JUMP
+1,34 - JUMP
+1,35 - JUMP
+1,36 - JUMP
+1,37 - JUMP
+1,38 - JUMP
+1,39 - JUMP
+1,4 - JUMP
+1,41 - JUMP
+1,42 - JUMP
+1,43 - JUMP
+1,44 - JUMP
+1,45 - JUMP
+1,46 - JUMP
+1,47 - JUMP
+1,48 - Roll Right
+1,49 - Roll Right
+1,5 - Roll Right
+1,51 - Roll Right
+1,52 - Roll Right
+1,53 - Roll Right
+1,54 - Roll Right
+1,55 - Roll Right
+1,56 - Roll Right
+1,57 - Roll Right
+1,58 - Roll Right
+1,59 - Roll Right
+1,6 - Roll Right
+1,61 - Roll Right
+1,62 - Roll Right
+1,63 - Roll Right
+1,64 - Roll Right
+1,65 - Roll Right
+1,66 - Roll Right
+1,67 - Roll Right
+1,68 - Roll Right
+1,69 - Roll Right
+1,7 - Roll Right
+1,71 - Roll Right
+1,72 - Roll Right
+1,73 - Roll Right
+1,74 - Roll Right
+1,75 - Roll Right
+1,76 - Roll Right
+1,77 - Roll Right
+1,78 - Roll Right
+1,79 - Roll Right
+1,8 - Roll Right
+1,81 - Roll Right
+1,82 - Roll Right
+1,83 - Roll Right
+1,84 - Roll Right
+1,85 - Roll Right
+1,86 - Roll Right
+1,87 - Roll Right
+1,88 - Roll Right
+1,89 - Roll Right
+1,9 - Roll Right
+1,91 - Roll Right
+1,92 - Roll Right
+1,93 - Roll Right
+1,94 - Roll Right
+1,95 - Roll Right
+1,96 - Roll Right
+1,97 - Roll Right
+1,98 - Roll Right
+1,99 - Roll Right
+2 - Roll Right
+2,01 - Roll Right
+2,02 - Roll Right
+2,03 - Roll Right
+2,04 - Roll Right
+2,05 - Roll Right
+2,06 - Roll Right
+2,07 - Roll Right
+2,08 - Roll Right
+2,09 - Roll Right
+2,1 - Roll Right
+2,11 - Roll Right
+2,12 - Roll Right
+2,13 - Roll Right
+2,14 - Roll Right
+2,15 - Roll Right
+2,16 - Roll Right
+2,17 - Roll Right
+2,18 - Roll Right
+2,19 - Roll Right
+2,2 - Roll Right
+2,21 - Roll Right
+2,22 - Roll Right
+2,23 - Roll Right
+2,24 - Roll Right
+2,25 - Roll Right
+2,26 - Roll Right
+2,27 - Roll Right
+2,28 - Roll Right
+2,29 - Roll Right
+2,3 - Roll Right
+2,31 - Roll Right
+2,32 - Roll Right
+2,33 - Roll Right
+2,34 - Roll Right
+2,35 - Roll Right
+2,36 - Roll Right
+2,37 - Roll Right
+2,38 - Roll Right
+2,39 - Roll Right
+2,4 - Roll Right
+2,41 - Roll Right
+2,42 - Roll Right
+2,43 - Roll Right
+2,44 - Roll Right
+2,45 - Roll Right
+2,46 - Roll Right
+2,47 - Roll Right
+2,48 - Roll Right
+2,49 - Roll Right
+2,5 - Roll Right
+2,51 - Roll Right
+2,52 - Roll Right
+2,53 - Roll Right
+2,54 - Roll Right
+2,55 - Roll Right
+2,56 - Roll Right
+2,57 - Roll Right
+2,58 - Roll Right
+2,59 - Roll Right
+2,6 - Roll Right
+2,61 - Roll Right
+2,62 - Roll Right
+2,63 - Roll Right
+2,64 - Roll Right
+2,65 - Roll Right
+2,66 - Roll Right
+2,67 - Roll Right
+2,68 - Roll Right
+2,69 - Roll Right
+2,7 - Roll Right
+2,71 - Roll Right
+2,72 - Roll Right
+2,73 - Roll Right
+2,74 - Roll Right
+2,75 - Roll Right
+2,76 - Roll Right
+2,77 - Roll Right
+2,78 - Roll Right
+2,79 - Roll Right
+2,8 - Roll Right
+2,81 - Roll Right
+2,82 - Roll Right
+2,83 - Roll Right
+2,84 - Roll Right
+2,85 - Roll Right
+2,86 - Roll Right
+2,87 - Roll Right
+2,88 - Roll Right
+2,89 - Roll Right
+2,9 - Roll Right
+2,91 - Roll Right
+2,92 - Roll Right
+2,93 - Roll Right
+2,94 - Roll Right
+2,95 - Roll Right
+2,96 - Roll Right
+2,97 - Roll Right
+2,98 - Roll Right
+2,99 - Roll Right
+3 - Roll Right
+3,01 - Roll Right
+3,02 - Roll Right
+3,03 - Roll Right
+3,04 - Roll Right
+3,05 - Roll Right
+3,06 - Roll Right
+3,07 - Roll Right
+3,08 - Roll Right
+3,09 - Roll Right
+3,1 - Roll Right
+3,11 - Roll Right
+3,12 - Roll Right
+3,13 - Roll Right
+3,14 - Roll Right
+3,15 - Roll Right
+3,16 - Roll Right
+3,17 - Roll Right
+3,18 - Roll Left
+3,19 - Roll Left
+3,2 - Roll Left
+3,21 - Roll Left
+3,22 - Roll Left
+3,23 - Roll Left
+3,24 - Roll Left
+3,25 - Roll Left
+3,26 - Roll Left
+3,27 - Roll Left
+3,28 - Roll Left
+3,29 - Roll Left
+3,3 - Roll Left
+3,31 - Roll Left
+3,32 - Roll Left
+3,33 - Roll Left
+3,34 - Roll Left
+3,35 - Roll Left
+3,36 - Roll Left
+3,37 - Roll Left
+3,38 - Roll Left
+3,39 - Roll Left
+3,4 - Roll Left
+3,41 - Roll Left
+3,42 - Roll Left
+3,43 - Roll Left
+3,44 - Roll Left
+3,45 - Roll Left
+3,46 - Roll Left
+3,47 - Roll Left
+3,48 - Roll Left
+3,49 - Roll Left
+3,5 - Roll Left
+3,51 - Roll Left
+3,52 - Roll Left
+3,53 - Roll Left
+3,54 - Roll Left
+3,55 - Roll Left
+3,56 - Roll Left
+3,57 - Roll Left
+3,58 - Roll Left
+3,59 - Roll Left
+3,6 - Roll Left
+3,61 - Roll Left
+3,62 - Roll Left
+3,63 - Roll Left
+3,64 - Roll Left
+3,65 - Roll Left
+3,66 - Roll Left
+3,67 - Roll Left
+3,68 - Roll Left
+3,69 - Roll Left
+3,7 - Roll Left
+3,71 - Roll Left
+3,72 - Roll Left
+3,73 - Roll Left
+3,74 - Roll Left
+3,75 - Roll Left
+3,76 - Roll Left
+3,77 - Roll Left
+3,78 - Roll Left
+3,79 - Roll Left
+3,8 - Roll Left
+3,81 - Roll Left
+3,82 - Roll Left
+3,83 - Roll Left
+3,84 - Roll Left
+3,85 - Roll Left
+3,86 - Roll Left
+3,87 - Roll Left
+3,88 - Roll Left
+3,89 - Roll Left
+3,9 - Roll Left
+3,91 - Roll Left
+3,92 - Roll Left
+3,93 - Roll Left
+3,94 - Roll Left
+3,95 - Roll Left
+3,96 - Roll Left
+3,97 - Roll Left
+3,98 - Roll Left
+3,99 - Roll Left
+4 - Roll Left
+4,01 - Roll Left
+4,02 - Roll Left
+4,03 - Roll Left
+4,04 - Roll Left
+4,05 - Roll Left
+4,06 - Roll Left
+4,07 - Roll Left
+4,08 - Roll Left
+4,09 - Roll Left
+4,1 - Roll Left
+4,11 - Roll Left
+4,12 - Roll Left
+4,13 - Roll Left
+4,14 - Roll Left
+4,15 - Roll Left
+4,16 - Roll Left
+4,17 - Roll Left
+4,18 - Roll Left
+4,19 - Roll Left
+4,2 - JUMP
+4,21 - JUMP
+4,22 - JUMP
+4,23 - JUMP
+4,24 - JUMP
+4,25 - JUMP
+4,26 - JUMP
+4,27 - JUMP
+4,28 - JUMP
+4,29 - JUMP
+4,3 - JUMP
+4,31 - JUMP
+4,32 - JUMP
+4,33 - JUMP
+4,34 - JUMP
+4,35 - JUMP
+4,36 - JUMP
+4,37 - JUMP
+4,38 - JUMP
+4,39 - JUMP
+4,4 - JUMP
+4,41 - JUMP
+4,42 - JUMP
+4,43 - JUMP
+4,44 - JUMP
+4,45 - JUMP
+4,46 - JUMP
+4,47 - JUMP
+4,48 - JUMP
+4,49 - JUMP
+4,5 - JUMP
+4,51 - JUMP
+4,52 - JUMP
+4,53 - JUMP
+4,54 - JUMP
+4,55 - JUMP
+4,56 - JUMP
+4,57 - JUMP
+4,58 - JUMP
+4,59 - JUMP
+4,6 - JUMP
+4,61 - JUMP
+4,62 - JUMP
+4,63 - JUMP
+4,64 - JUMP
+4,65 - JUMP
+4,66 - JUMP
+4,67 - JUMP
+4,68 - JUMP
+4,69 - JUMP
+4,7 - JUMP
+4,71 - JUMP
+4,72 - JUMP
+4,73 - JUMP
+4,74 - JUMP
+4,75 - JUMP
+4,76 - JUMP
+4,77 - JUMP
+4,78 - JUMP
+4,79 - JUMP
+4,8 - JUMP
+4,81 - JUMP
+4,82 - JUMP
+4,83 - JUMP
+4,84 - JUMP
+4,85 - JUMP
+4,86 - JUMP
+4,87 - JUMP
+4,88 - JUMP
+4,89 - JUMP
+4,9 - JUMP
+4,91 - JUMP
+4,92 - JUMP
+4,93 - JUMP
+4,94 - JUMP
+4,95 - JUMP
+4,96 - JUMP
+4,97 - JUMP
+4,98 - JUMP
+4,99 - JUMP
+5 - JUMP
+5,01 - JUMP
+5,02 - JUMP
+5,03 - JUMP
+5,04 - JUMP
+5,05 - JUMP
+5,06 - JUMP
+5,07 - JUMP
+5,08 - JUMP
+5,09 - JUMP
+5,1 - JUMP
+5,11 - JUMP
+5,12 - JUMP
+5,13 - JUMP
+5,14 - JUMP
+5,15 - JUMP
+5,16 - JUMP
+5,17 - JUMP
+5,18 - JUMP
+5,19 - JUMP
+5,2 - JUMP
+5,21 - Roll Left
+5,22 - Roll Left
+5,23 - Roll Left
+5,24 - Roll Left
+5,25 - Roll Left
+5,26 - Roll Left
+5,27 - Roll Left
+5,28 - Roll Left
+5,29 - Roll Left
+5,3 - Roll Left
+5,31 - Roll Left
+5,32 - Roll Left
+5,33 - Roll Left
+5,34 - Roll Left
+5,35 - Roll Left
+5,36 - Roll Left
+5,37 - Roll Left
+5,38 - Roll Left
+5,39 - Roll Left
+5,4 - Roll Left
+5,41 - Roll Left
+5,42 - Roll Left
+5,43 - Roll Left
+5,44 - Roll Left
+5,45 - Roll Left
+5,46 - Roll Left
+5,47 - Roll Left
+5,48 - Roll Left
+5,49 - Roll Left
+5,5 - Roll Left
+5,51 - Roll Left
+5,52 - Roll Left
+5,53 - Roll Left
+5,54 - Roll Left
+5,55 - Roll Left
+5,56 - Roll Left
+5,57 - Roll Left
+5,58 - Roll Left
+5,59 - Roll Left
+5,6 - Roll Left
+5,61 - Roll Left
+5,62 - Roll Left
+5,63 - Roll Left
+5,64 - Roll Left
+5,65 - Roll Left
+5,66 - Roll Left
+5,67 - Roll Left
+5,68 - Roll Left
+5,69 - Roll Left
+5,7 - Roll Left
+5,71 - Roll Left
+5,72 - Roll Left
+5,73 - Roll Left
+5,74 - Roll Left
+5,75 - Roll Left
+5,76 - Roll Left
+5,77 - Roll Left
+5,78 - Roll Left
+5,79 - Roll Left
+5,8 - Roll Left
+5,81 - Roll Left
+5,82 - Roll Left
+5,83 - Roll Left
+5,84 - Roll Left
+5,85 - Roll Left
+5,86 - Roll Left
+5,87 - Roll Left
+5,88 - Roll Left
+5,89 - Roll Left
+5,9 - Roll Left
+5,91 - Roll Left
+5,92 - Roll Left
+5,93 - Roll Left
+5,94 - Roll Left
+5,95 - Roll Left
+5,96 - Roll Left
+5,97 - Roll Left
+5,98 - Roll Left
+5,99 - Roll Left
+6 - Roll Left
+6,01 - Roll Left
+6,02 - Roll Left
+6,03 - Roll Left
+6,04 - Roll Left
+6,05 - Roll Left
+6,06 - Roll Left
+6,07 - Roll Left
+6,08 - Roll Left
+6,09 - Roll Left
+6,1 - Roll Left
+6,11 - Roll Left
+6,12 - Roll Left
+6,13 - Roll Left
+6,14 - Roll Left
+6,15 - Roll Left
+6,16 - Roll Left
+6,17 - Roll Left
+6,18 - Roll Left
+6,19 - Roll Left
+6,2 - Roll Left
+6,21 - Roll Left
+6,22 - Roll Left
+6,23 - Roll Right
+6,24 - Roll Right
+6,25 - Roll Right
+6,26 - Roll Right
+6,27 - Roll Right
+6,28 - Roll Right
+6,29 - Roll Right
+6,3 - Roll Right
+6,31 - Roll Right
+6,32 - Roll Right
+6,33 - Roll Right
+6,34 - Roll Right
+6,35 - Roll Right
+6,36 - Roll Right
+6,37 - Roll Right
+6,38 - Roll Right
+6,39 - Roll Right
+6,4 - Roll Right
+6,41 - Roll Right
+6,42 - Roll Right
+6,43 - Roll Right
+6,44 - Roll Right
+6,45 - Roll Right
+6,46 - Roll Right
+6,47 - Roll Right
+6,48 - Roll Right
+6,49 - Roll Right
+6,5 - Roll Right
+6,51 - Roll Right
+6,52 - Roll Right
+6,53 - Roll Right
+6,54 - Roll Right
+6,55 - Roll Right
+6,56 - Roll Right
+6,57 - Roll Right
+6,58 - Roll Right
+6,59 - Roll Right
+6,6 - Roll Right
+6,61 - Roll Right
+6,62 - Roll Right
+6,63 - Roll Right
+6,64 - Roll Right
+6,65 - Roll Right
+6,66 - Roll Right
+6,67 - Roll Right
+6,68 - Roll Right
+6,69 - Roll Right
+6,7 - Roll Right
+6,71 - Roll Right
+6,72 - Roll Right
+6,73 - Roll Right
+6,74 - Roll Right
+6,75 - Roll Right
+6,76 - Roll Right
+6,77 - Roll Right
+6,78 - Roll Right
+6,79 - Roll Right
+6,8 - Roll Right
+6,81 - Roll Right
+6,82 - Roll Right
+6,83 - Roll Right
+6,84 - Roll Right
+6,85 - Roll Right
+6,86 - Roll Right
+6,87 - Roll Right
+6,88 - Roll Right
+6,89 - Roll Right
+6,9 - Roll Right
+6,91 - Roll Right
+6,92 - Roll Right
+6,93 - Roll Right
+6,94 - Roll Right
+6,95 - Roll Right
+6,96 - Roll Right
+6,97 - Roll Right
+6,98 - Roll Right
+6,99 - Roll Right
+7 - Roll Right
+7,01 - Roll Right
+7,02 - Roll Right
+7,03 - Roll Right
+7,04 - Roll Right
+7,05 - Roll Right
+7,06 - Roll Right
+7,07 - Roll Right
+7,08 - Roll Right
+7,09 - Roll Right
+7,1 - Roll Right
+7,11 - Roll Right
+7,12 - Roll Right
+7,13 - Roll Right
+7,14 - Roll Right
+7,15 - Roll Right
+7,16 - Roll Right
+7,17 - Roll Right
+7,18 - Roll Right
+7,19 - Roll Right
+7,2 - Roll Right
+7,21 - Roll Right
+7,22 - Roll Right
+7,23 - Roll Right
+7,24 - Roll Right
+7,25 - Roll Right
+7,26 - Roll Right
+7,27 - Roll Right
+7,28 - Roll Right
+7,29 - Roll Right
+7,3 - Roll Right
+7,31 - Roll Right
+7,32 - Roll Right
+7,33 - Roll Right
+7,34 - Roll Right
+7,35 - Roll Right
+7,36 - Roll Right
+7,37 - Roll Right
+7,38 - Roll Right
+7,39 - Roll Right
+7,4 - Roll Right
+7,41 - Roll Right
+7,42 - Roll Right
+7,43 - Roll Right
+7,44 - Roll Right
+7,45 - Roll Right
+7,46 - Roll Right
+7,47 - Roll Right
+7,48 - Roll Right
+7,49 - Roll Right
+7,5 - Roll Right
+7,51 - Roll Right
+7,52 - Roll Right
+7,53 - Roll Right
+7,54 - Roll Right
+7,55 - Roll Right
+7,56 - Roll Right
+7,57 - Roll Right
+7,58 - Roll Right
+7,59 - Roll Right
+7,6 - Roll Right
+7,61 - Roll Right
+7,62 - Roll Right
+7,63 - Roll Right
+7,64 - Roll Right
+7,65 - Roll Right
+7,66 - Roll Right
+7,67 - Roll Right
+7,68 - Roll Right
+7,69 - Roll Right
+7,7 - Roll Right
+7,71 - Roll Right
+7,72 - Roll Right
+7,73 - Roll Right
+7,74 - Roll Right
+7,75 - Roll Right
+7,76 - Roll Right
+7,77 - Roll Right
+7,78 - Roll Right
+7,79 - Roll Right
+7,8 - Roll Right
+7,81 - Roll Right
+7,82 - Roll Right
+7,83 - Roll Right
+7,84 - Roll Right
+7,85 - Roll Right
+7,86 - Roll Right
+7,87 - Roll Right
+7,88 - Roll Right
+7,89 - Roll Right
+7,9 - Roll Right
+7,91 - Roll Right
+7,92 - Roll Right
+7,93 - Roll Right
+7,94 - Roll Right
+7,95 - Roll Right
+7,96 - Roll Right
+7,97 - Roll Right
+7,98 - Roll Right
+7,99 - Roll Right
+8 - Roll Right
+8,01 - Roll Right
+8,02 - Roll Right
+8,03 - Roll Right
+8,04 - Roll Right
+8,05 - Roll Right
+8,06 - Roll Right
+8,07 - Roll Right
+8,08 - Roll Right
+8,09 - Roll Right
+8,1 - Roll Right
+8,11 - Roll Right
+8,12 - Roll Right
+8,13 - Roll Right
+8,14 - Roll Right
+8,15 - Roll Right
+8,16 - Roll Right
+8,17 - Roll Right
+8,18 - Roll Right
+8,19 - Roll Right
+8,2 - Roll Right
+8,21 - Roll Right
+8,22 - Roll Right
+8,23 - Roll Right
+8,24 - Roll Right
+8,25 - Roll Left
+8,26 - Roll Left
+8,27 - Roll Left
+8,28 - Roll Left
+8,29 - Roll Left
+8,3 - Roll Left
+8,31 - Roll Left
+8,32 - Roll Left
+8,33 - Roll Left
+8,34 - Roll Left
+8,35 - Roll Left
+8,36 - Roll Left
+8,37 - Roll Left
+8,38 - Roll Left
+8,39 - Roll Left
+8,4 - Roll Left
+8,41 - Roll Left
+8,42 - Roll Left
+8,43 - Roll Left
+8,44 - Roll Left
+8,45 - Roll Left
+8,46 - Roll Left
+8,47 - Roll Left
+8,48 - Roll Left
+8,49 - Roll Left
+8,5 - Roll Left
+8,51 - Roll Left
+8,52 - Roll Left
+8,53 - Roll Left
+8,54 - Roll Left
+8,55 - Roll Left
+8,56 - Roll Left
+8,57 - Roll Left
+8,58 - Roll Left
+8,59 - Roll Left
+8,6 - Roll Left
+8,61 - Roll Left
+8,62 - Roll Left
+8,63 - Roll Left
+8,64 - Roll Left
+8,65 - Roll Left
+8,66 - Roll Left
+8,67 - Roll Left
+8,68 - Roll Left
+8,69 - Roll Left
+8,7 - Roll Left
+8,71 - Roll Left
+8,72 - Roll Left
+8,73 - Roll Left
+8,74 - Roll Left
+8,75 - Roll Left
+8,76 - Roll Left
+8,77 - Roll Left
+8,78 - Roll Left
+8,79 - Roll Left
+8,8 - Roll Left
+8,81 - Roll Left
+8,82 - Roll Left
+8,83 - Roll Left
+8,84 - Roll Left
+8,85 - Roll Left
+8,86 - Roll Left
+8,87 - Roll Left
+8,88 - Roll Left
+8,89 - Roll Left
+8,9 - Roll Left
+8,91 - Roll Left
+8,92 - Roll Left
+8,93 - Roll Left
+8,94 - Roll Left
+8,95 - Roll Left
+8,96 - Roll Left
+8,97 - Roll Left
+8,98 - Roll Left
+8,99 - Roll Left
+9 - Roll Left
+9,01 - Roll Left
+9,02 - Roll Left
+9,03 - Roll Left
+9,04 - Roll Left
+9,05 - Roll Left
+9,06 - Roll Left
+9,07 - Roll Left
+9,08 - Roll Left
+9,09 - Roll Left
+9,1 - Roll Left
+9,11 - Roll Left
+9,12 - Roll Left
+9,13 - Roll Left
+9,14 - Roll Left
+9,15 - Roll Left
+9,16 - Roll Left
+9,17 - Roll Left
+9,18 - Roll Left
+9,19 - Roll Left
+9,2 - Roll Left
+9,21 - Roll Left
+9,22 - Roll Left
+9,23 - Roll Left
+9,24 - Roll Left
+9,25 - Roll Left
+9,26 - Roll Left
+9,27 - Roll Left
+9,28 - Roll Left
+9,29 - Roll Left
+9,3 - Roll Left
+9,31 - Roll Left
+9,32 - Roll Left
+9,33 - Roll Left
+9,34 - Roll Left
+9,35 - Roll Left
+9,36 - Roll Left
+9,37 - Roll Left
+9,38 - Roll Left
+9,39 - Roll Left
+9,4 - Roll Left
+9,41 - Roll Left
+9,42 - Roll Left
+9,43 - Roll Left
+9,44 - Roll Left
+9,45 - Roll Left
+9,46 - Roll Left
+9,47 - Roll Left
+9,48 - Roll Left
+9,49 - Roll Left
+9,5 - Roll Left
+9,51 - Roll Left
+9,52 - Roll Left
+9,53 - Roll Left
+9,54 - Roll Left
+9,55 - Roll Left
+9,56 - Roll Left
+9,57 - Roll Left
+9,58 - Roll Left
+9,59 - Roll Left
+9,6 - Roll Left
+9,61 - Roll Left
+9,62 - Roll Left
+9,63 - Roll Left
+9,64 - Roll Left
+9,65 - Roll Left
+9,66 - Roll Left
+9,67 - Roll Left
+9,68 - Roll Left
+9,69 - Roll Left
+9,7 - Roll Left
+9,71 - Roll Left
+9,72 - Roll Left
+9,73 - Roll Left
+9,74 - Roll Left
+9,75 - Roll Left
+9,76 - Roll Left
+9,77 - Roll Left
+9,78 - Roll Left
+9,79 - Roll Left
+9,8 - Roll Left
+9,81 - Roll Left
+9,82 - Roll Left
+9,83 - Roll Left
+9,84 - Roll Left
+9,85 - Roll Left
+9,86 - Roll Left
+9,87 - Roll Left
+9,88 - Roll Left
+9,89 - Roll Left
+9,9 - Roll Left
+9,91 - Roll Left
+9,92 - Roll Left
+9,93 - Roll Left
+9,94 - Roll Left
+9,95 - Roll Left
+9,96 - Roll Left
+9,97 - Roll Left
+9,98 - Roll Left
+9,99 - Roll Left
+10 - Roll Left
+10,01 - Roll Left
+10,02 - Roll Left
+10,03 - Roll Left
+10,04 - Roll Left
+10,05 - Roll Left
+10,06 - Roll Left
+10,07 - Roll Left
+10,08 - Roll Left
+10,09 - Roll Left
+10,1 - Roll Left
+10,11 - Roll Left
+10,12 - Roll Left
+10,13 - Roll Left
+10,14 - Roll Left
+10,15 - Roll Left
+10,16 - Roll Left
+10,17 - Roll Left
+10,18 - Roll Left
+10,19 - Roll Left
+10,2 - Roll Left
+10,21 - Roll Left
+10,22 - Roll Left
+10,23 - Roll Left
+10,24 - Roll Left
+10,25 - Roll Left
+10,26 - Roll Left
+10,27 - Roll Left
+10,28 - Roll Left
+10,29 - Roll Right
+10,3 - Roll Right
+10,31 - Roll Right
+10,32 - Roll Right
+10,33 - Roll Right
+10,34 - Roll Right
+10,35 - Roll Right
+10,36 - Roll Right
+10,37 - Roll Right
+10,38 - Roll Right
+10,39 - Roll Right
+10,4 - Roll Right
+10,41 - Roll Right
+10,42 - Roll Right
+10,43 - Roll Right
+10,44 - Roll Right
+10,45 - Roll Right
+10,46 - Roll Right
+10,47 - Roll Right
+10,48 - Roll Right
+10,49 - Roll Right
+10,5 - Roll Right
+10,51 - Roll Right
+10,52 - Roll Right
+10,53 - Roll Right
+10,54 - Roll Right
+10,55 - Roll Right
+10,56 - Roll Right
+10,57 - Roll Right
+10,58 - Roll Right
+10,59 - Roll Right
+10,6 - Roll Right
+10,61 - Roll Right
+10,62 - Roll Right
+10,63 - Roll Right
+10,64 - Roll Right
+10,65 - Roll Right
+10,66 - Roll Right
+10,67 - Roll Right
+10,68 - Roll Right
+10,69 - Roll Right
+10,7 - Roll Right
+10,71 - Roll Right
+10,72 - Roll Right
+10,73 - Roll Right
+10,74 - Roll Right
+10,75 - Roll Right
+10,76 - Roll Right
+10,77 - Roll Right
+10,78 - Roll Right
+10,79 - Roll Right
+10,8 - Roll Right
+10,81 - Roll Right
+10,82 - Roll Right
+10,83 - Roll Right
+10,84 - Roll Right
+10,85 - Roll Right
+10,86 - Roll Right
+10,87 - Roll Right
+10,88 - Roll Right
+10,89 - Roll Right
+10,9 - Roll Right
+10,91 - Roll Right
+10,92 - Roll Right
+10,93 - Roll Right
+10,94 - Roll Right
+10,95 - Roll Right
+10,96 - Roll Right
+10,97 - Roll Right
+10,98 - Roll Right
+10,99 - Roll Right
+11 - Roll Right
+11,01 - Roll Right
+11,02 - Roll Right
+11,03 - Roll Right
+11,04 - Roll Right
+11,05 - Roll Right
+11,06 - Roll Right
+11,07 - Roll Right
+11,08 - Roll Right
+11,09 - Roll Right
+11,1 - Roll Right
+11,11 - Roll Right
+11,12 - Roll Right
+11,13 - Roll Right
+11,14 - Roll Right
+11,15 - Roll Right
+11,16 - Roll Right
+11,17 - Roll Right
+11,18 - Roll Right
+11,19 - Roll Right
+11,2 - Roll Right
+11,21 - Roll Right
+11,22 - Roll Right
+11,23 - Roll Right
+11,24 - Roll Right
+11,25 - Roll Right
+11,26 - Roll Right
+11,27 - Roll Right
+11,28 - Roll Right
+11,29 - Roll Right
+11,3 - JUMP
+11,31 - JUMP
+11,32 - JUMP
+11,33 - JUMP
+11,34 - JUMP
+11,35 - JUMP
+11,36 - JUMP
+11,37 - JUMP
+11,38 - JUMP
+11,39 - JUMP
+11,4 - JUMP
+11,41 - JUMP
+11,42 - JUMP
+11,43 - JUMP
+11,44 - JUMP
+11,45 - JUMP
+11,46 - JUMP
+11,47 - JUMP
+11,48 - JUMP
+11,49 - JUMP
+11,5 - JUMP
+11,51 - JUMP
+11,52 - JUMP
+11,53 - JUMP
+11,54 - JUMP
+11,55 - JUMP
+11,56 - JUMP
+11,57 - JUMP
+11,58 - JUMP
+11,59 - JUMP
+11,6 - JUMP
+11,61 - JUMP
+11,62 - JUMP
+11,63 - JUMP
+11,64 - JUMP
+11,65 - JUMP
+11,66 - JUMP
+11,67 - JUMP
+11,68 - JUMP
+11,69 - JUMP
+11,7 - JUMP
+11,71 - JUMP
+11,72 - JUMP
+11,73 - JUMP
+11,74 - JUMP
+11,75 - JUMP
+11,76 - JUMP
+11,77 - JUMP
+11,78 - JUMP
+11,79 - JUMP
+11,8 - JUMP
+11,81 - JUMP
+11,82 - JUMP
+11,83 - JUMP
+11,84 - JUMP
+11,85 - JUMP
+11,86 - JUMP
+11,87 - JUMP
+11,88 - JUMP
+11,89 - JUMP
+11,9 - JUMP
+11,91 - JUMP
+11,92 - JUMP
+11,93 - JUMP
+11,94 - JUMP
+11,95 - JUMP
+11,96 - JUMP
+11,97 - JUMP
+11,98 - JUMP
+11,99 - JUMP
+12 - JUMP
+12,01 - JUMP
+12,02 - JUMP
+12,03 - JUMP
+12,04 - JUMP
+12,05 - JUMP
+12,06 - JUMP
+12,07 - JUMP
+12,08 - JUMP
+12,09 - JUMP
+12,1 - JUMP
+12,11 - JUMP
+12,12 - JUMP
+12,13 - JUMP
+12,14 - JUMP
+12,15 - JUMP
+12,16 - JUMP
+12,17 - JUMP
+12,18 - JUMP
+12,19 - JUMP
+12,2 - JUMP
+12,21 - JUMP
+12,22 - JUMP
+12,23 - JUMP
+12,24 - JUMP
+12,25 - JUMP
+12,26 - JUMP
+12,27 - JUMP
+12,28 - JUMP
+12,29 - JUMP
+12,3 - JUMP
+12,31 - Roll Left
+12,32 - Roll Left
+12,33 - Roll Left
+12,34 - Roll Left
+12,35 - Roll Left
+12,36 - Roll Left
+12,37 - Roll Left
+12,38 - Roll Left
+12,39 - Roll Left
+12,4 - Roll Left
+12,41 - Roll Left
+12,42 - Roll Left
+12,43 - Roll Left
+12,44 - Roll Left
+12,45 - Roll Left
+12,46 - Roll Left
+12,47 - Roll Left
+12,48 - Roll Left
+12,49 - Roll Left
+12,5 - Roll Left
+12,51 - Roll Left
+12,52 - Roll Left
+12,53 - Roll Left
+12,54 - Roll Left
+12,55 - Roll Left
+12,56 - Roll Left
+12,57 - Roll Left
+12,58 - Roll Left
+12,59 - Roll Left
+12,6 - Roll Left
+12,61 - Roll Left
+12,62 - Roll Left
+12,63 - Roll Left
+12,64 - Roll Left
+12,65 - Roll Left
+12,66 - Roll Left
+12,67 - Roll Left
+12,68 - Roll Left
+12,69 - Roll Left
+12,7 - Roll Left
+12,71 - Roll Left
+12,72 - Roll Left
+12,73 - Roll Left
+12,74 - Roll Left
+12,75 - Roll Left
+12,76 - Roll Left
+12,77 - Roll Left
+12,78 - Roll Left
+12,79 - Roll Left
+12,8 - Roll Left
+12,81 - Roll Left
+12,82 - Roll Left
+12,83 - Roll Left
+12,84 - Roll Left
+12,85 - Roll Left
+12,86 - Roll Left
+12,87 - Roll Left
+12,88 - Roll Left
+12,89 - Roll Left
+12,9 - Roll Left
+12,91 - Roll Left
+12,92 - Roll Left
+12,93 - Roll Left
+12,94 - Roll Left
+12,95 - Roll Left
+12,96 - Roll Left
+12,97 - Roll Left
+12,98 - Roll Left
+12,99 - Roll Left
+13 - Roll Left
+13,01 - Roll Left
+13,02 - Roll Left
+13,03 - Roll Left
+13,04 - Roll Left
+13,05 - Roll Left
+13,06 - Roll Left
+13,07 - Roll Left
+13,08 - Roll Left
+13,09 - Roll Left
+13,1 - Roll Left
+13,11 - Roll Left
+13,12 - Roll Left
+13,13 - Roll Left
+13,14 - Roll Left
+13,15 - Roll Left
+13,16 - Roll Left
+13,17 - Roll Left
+13,18 - Roll Left
+13,19 - Roll Left
+13,2 - Roll Left
+13,21 - Roll Left
+13,22 - Roll Left
+13,23 - Roll Left
+13,24 - Roll Left
+13,25 - Roll Left
+13,26 - Roll Left
+13,27 - Roll Left
+13,28 - Roll Left
+13,29 - Roll Left
+13,3 - Roll Left
+13,31 - Roll Left
+13,32 - Roll Left
+13,33 - JUMP
+13,34 - JUMP
+13,35 - JUMP
+13,36 - JUMP
+13,37 - JUMP
+13,38 - JUMP
+13,39 - JUMP
+13,4 - JUMP
+13,41 - JUMP
+13,42 - JUMP
+13,43 - JUMP
+13,44 - JUMP
+13,45 - JUMP
+13,46 - JUMP
+13,47 - JUMP
+13,48 - JUMP
+13,49 - JUMP
+13,5 - JUMP
+13,51 - JUMP
+13,52 - JUMP
+13,53 - JUMP
+13,54 - JUMP
+13,55 - JUMP
+13,56 - JUMP
+13,57 - JUMP
+13,58 - JUMP
+13,59 - JUMP
+13,6 - JUMP
+13,61 - JUMP
+13,62 - JUMP
+13,63 - JUMP
+13,64 - JUMP
+13,65 - JUMP
+13,66 - JUMP
+13,67 - JUMP
+13,68 - JUMP
+13,69 - JUMP
+13,7 - JUMP
+13,71 - JUMP
+13,72 - JUMP
+13,73 - JUMP
+13,74 - JUMP
+13,75 - JUMP
+13,76 - JUMP
+13,77 - JUMP
+13,78 - JUMP
+13,79 - JUMP
+13,8 - JUMP
+13,81 - JUMP
+13,82 - JUMP
+13,83 - JUMP
+13,84 - JUMP
+13,85 - JUMP
+13,86 - JUMP
+13,87 - JUMP
+13,88 - JUMP
+13,89 - JUMP
+13,9 - JUMP
+13,91 - JUMP
+13,92 - JUMP
+13,93 - JUMP
+13,94 - JUMP
+13,95 - JUMP
+13,96 - JUMP
+13,97 - JUMP
+13,98 - JUMP
+13,99 - JUMP
+14 - JUMP
+14,01 - JUMP
+14,02 - JUMP
+14,03 - JUMP
+14,04 - JUMP
+14,05 - JUMP
+14,06 - JUMP
+14,07 - JUMP
+14,08 - JUMP
+14,09 - JUMP
+14,1 - JUMP
+14,11 - JUMP
+14,12 - JUMP
+14,13 - JUMP
+14,14 - JUMP
+14,15 - JUMP
+14,16 - JUMP
+14,17 - JUMP
+14,18 - JUMP
+14,19 - JUMP
+14,2 - JUMP
+14,21 - JUMP
+14,22 - JUMP
+14,23 - JUMP
+14,24 - JUMP
+14,25 - JUMP
+14,26 - JUMP
+14,27 - JUMP
+14,28 - JUMP
+14,29 - JUMP
+14,3 - JUMP
+14,31 - JUMP
+14,32 - JUMP
+14,33 - JUMP
+14,34 - JUMP
+14,35 - Roll Left
+14,36 - Roll Left
+14,37 - Roll Left
+14,38 - Roll Left
+14,39 - Roll Left
+14,4 - Roll Left
+14,41 - Roll Left
+14,42 - Roll Left
+14,43 - Roll Left
+14,44 - Roll Left
+14,45 - Roll Left
+14,46 - Roll Left
+14,47 - Roll Left
+14,48 - Roll Left
+14,49 - Roll Left
+14,5 - Roll Left
+14,51 - Roll Left
+14,52 - Roll Left
+14,53 - Roll Left
+14,54 - Roll Left
+14,55 - Roll Left
+14,56 - Roll Left
+14,57 - Roll Left
+14,58 - Roll Left
+14,59 - Roll Left
+14,6 - Roll Left
+14,61 - Roll Left
+14,62 - Roll Left
+14,63 - Roll Left
+14,64 - Roll Left
+14,65 - Roll Left
+14,66 - Roll Left
+14,67 - Roll Left
+14,68 - Roll Left
+14,69 - Roll Left
+14,7 - Roll Left
+14,71 - Roll Left
+14,72 - Roll Left
+14,73 - Roll Left
+14,74 - Roll Left
+14,75 - Roll Left
+14,76 - Roll Left
+14,77 - Roll Left
+14,78 - Roll Left
+14,79 - Roll Left
+14,8 - Roll Left
+14,81 - Roll Left
+14,82 - Roll Left
+14,83 - Roll Left
+14,84 - Roll Left
+14,85 - Roll Left
+14,86 - Roll Left
+14,87 - Roll Left
+14,88 - Roll Left
+14,89 - Roll Left
+14,9 - Roll Left
+14,91 - Roll Left
+14,92 - Roll Left
+14,93 - Roll Left
+14,94 - Roll Left
+14,95 - Roll Left
+14,96 - Roll Left
+14,97 - Roll Left
+14,98 - Roll Left
+14,99 - Roll Left
+15 - Roll Left
+15,01 - Roll Left
+15,02 - Roll Left
+15,03 - Roll Left
+15,04 - Roll Left
+15,05 - Roll Left
+15,06 - Roll Left
+15,07 - Roll Left
+15,08 - Roll Left
+15,09 - Roll Left
+15,1 - Roll Left
+15,11 - Roll Left
+15,12 - Roll Left
+15,13 - Roll Left
+15,14 - Roll Left
+15,15 - Roll Left
+15,16 - Roll Left
+15,17 - Roll Left
+15,18 - Roll Left
+15,19 - Roll Left
+15,2 - Roll Left
+15,21 - Roll Left
+15,22 - Roll Left
+15,23 - Roll Left
+15,24 - Roll Left
+15,25 - Roll Left
+15,26 - Roll Left
+15,27 - Roll Left
+15,28 - Roll Left
+15,29 - Roll Left
+15,3 - Roll Left
+15,31 - Roll Left
+15,32 - Roll Left
+15,33 - Roll Left
+15,34 - Roll Left
+15,35 - Roll Left
+15,36 - JUMP
+15,37 - JUMP
+15,38 - JUMP
+15,39 - JUMP
+15,4 - JUMP
+15,41 - JUMP
+15,42 - JUMP
+15,43 - JUMP
+15,44 - JUMP
+15,45 - JUMP
+15,46 - JUMP
+15,47 - JUMP
+15,48 - JUMP
+15,49 - JUMP
+15,5 - JUMP
+15,51 - JUMP
+15,52 - JUMP
+15,53 - JUMP
+15,54 - JUMP
+15,55 - JUMP
+15,56 - JUMP
+15,57 - JUMP
+15,58 - JUMP
+15,59 - JUMP
+15,6 - JUMP
+15,61 - JUMP
+15,62 - JUMP
+15,63 - JUMP
+15,64 - JUMP
+15,65 - JUMP
+15,66 - JUMP
+15,67 - JUMP
+15,68 - JUMP
+15,69 - JUMP
+15,7 - JUMP
+15,71 - JUMP
+15,72 - JUMP
+15,73 - JUMP
+15,74 - JUMP
+15,75 - JUMP
+15,76 - JUMP
+15,77 - JUMP
+15,78 - JUMP
+15,79 - JUMP
+15,8 - JUMP
+15,81 - JUMP
+15,82 - JUMP
+15,83 - JUMP
+15,84 - JUMP
+15,85 - JUMP
+15,86 - JUMP
+15,87 - JUMP
+15,88 - JUMP
+15,89 - JUMP
+15,9 - JUMP
+15,91 - JUMP
+15,92 - JUMP
+15,93 - JUMP
+15,94 - JUMP
+15,95 - JUMP
+15,96 - JUMP
+15,97 - JUMP
+15,98 - JUMP
+15,99 - JUMP
+16 - JUMP
+16,01 - JUMP
+16,02 - JUMP
+16,03 - JUMP
+16,04 - JUMP
+16,05 - JUMP
+16,06 - JUMP
+16,07 - JUMP
+16,08 - JUMP
+16,09 - JUMP
+16,1 - JUMP
+16,11 - JUMP
+16,12 - JUMP
+16,13 - JUMP
+16,14 - JUMP
+16,15 - JUMP
+16,16 - JUMP
+16,17 - JUMP
+16,18 - JUMP
+16,19 - JUMP
+16,2 - JUMP
+16,21 - JUMP
+16,22 - JUMP
+16,23 - JUMP
+16,24 - JUMP
+16,25 - JUMP
+16,26 - JUMP
+16,27 - JUMP
+16,28 - JUMP
+16,29 - JUMP
+16,3 - JUMP
+16,31 - JUMP
+16,32 - JUMP
+16,33 - JUMP
+16,34 - JUMP
+16,35 - JUMP
+16,36 - JUMP
+16,37 - JUMP
+16,38 - JUMP
+16,39 - JUMP
+16,4 - JUMP
+16,41 - JUMP
+16,42 - JUMP
+16,43 - JUMP
+16,44 - JUMP
+16,45 - JUMP
+16,46 - JUMP
+16,47 - JUMP
+16,48 - JUMP
+16,49 - JUMP
+16,5 - JUMP
+16,51 - JUMP
+16,52 - JUMP
+16,53 - JUMP
+16,54 - JUMP
+16,55 - JUMP
+16,56 - JUMP
+16,57 - JUMP
+16,58 - JUMP
+16,59 - JUMP
+16,6 - JUMP
+16,61 - JUMP
+16,62 - JUMP
+16,63 - JUMP
+16,64 - JUMP
+16,65 - JUMP
+16,66 - JUMP
+16,67 - JUMP
+16,68 - JUMP
+16,69 - JUMP
+16,7 - JUMP
+16,71 - JUMP
+16,72 - JUMP
+16,73 - JUMP
+16,74 - JUMP
+16,75 - JUMP
+16,76 - JUMP
+16,77 - JUMP
+16,78 - JUMP
+16,79 - JUMP
+16,8 - JUMP
+16,81 - JUMP
+16,82 - JUMP
+16,83 - JUMP
+16,84 - JUMP
+16,85 - JUMP
+16,86 - JUMP
+16,87 - JUMP
+16,88 - JUMP
+16,89 - JUMP
+16,9 - JUMP
+16,91 - JUMP
+16,92 - JUMP
+16,93 - JUMP
+16,94 - JUMP
+16,95 - JUMP
+16,96 - JUMP
+16,97 - JUMP
+16,98 - JUMP
+16,99 - JUMP
+17 - JUMP
+17,01 - JUMP
+17,02 - JUMP
+17,03 - JUMP
+17,04 - JUMP
+17,05 - JUMP
+17,06 - JUMP
+17,07 - JUMP
+17,08 - JUMP
+17,09 - JUMP
+17,1 - JUMP
+17,11 - JUMP
+17,12 - JUMP
+17,13 - JUMP
+17,14 - JUMP
+17,15 - JUMP
+17,16 - JUMP
+17,17 - JUMP
+17,18 - JUMP
+17,19 - JUMP
+17,2 - JUMP
+17,21 - JUMP
+17,22 - JUMP
+17,23 - JUMP
+17,24 - JUMP
+17,25 - JUMP
+17,26 - JUMP
+17,27 - JUMP
+17,28 - JUMP
+17,29 - JUMP
+17,3 - JUMP
+17,31 - JUMP
+17,32 - JUMP
+17,33 - JUMP
+17,34 - JUMP
+17,35 - JUMP
+17,36 - JUMP
+17,37 - JUMP
+17,38 - JUMP
+17,39 - JUMP
+17,4 - JUMP
+17,41 - JUMP
+17,42 - JUMP
+17,43 - JUMP
+17,44 - JUMP
+17,45 - JUMP
+17,46 - JUMP
+17,47 - JUMP
+17,48 - JUMP
+17,49 - JUMP
+17,5 - JUMP
+17,51 - JUMP
+17,52 - JUMP
+17,53 - JUMP
+17,54 - JUMP
+17,55 - JUMP
+17,56 - JUMP
+17,57 - JUMP
+17,58 - JUMP
+17,59 - JUMP
+17,6 - JUMP
+17,61 - JUMP
+17,62 - JUMP
+17,63 - JUMP
+17,64 - JUMP
+17,65 - JUMP
+17,66 - JUMP
+17,67 - JUMP
+17,68 - JUMP
+17,69 - JUMP
+17,7 - JUMP
+17,71 - JUMP
+17,72 - JUMP
+17,73 - JUMP
+17,74 - JUMP
+17,75 - JUMP
+17,76 - JUMP
+17,77 - JUMP
+17,78 - JUMP
+17,79 - JUMP
+17,8 - JUMP
+17,81 - JUMP
+17,82 - JUMP
+17,83 - JUMP
+17,84 - JUMP
+17,85 - JUMP
+17,86 - JUMP
+17,87 - JUMP
+17,88 - JUMP
+17,89 - JUMP
+17,9 - JUMP
+17,91 - JUMP
+17,92 - JUMP
+17,93 - JUMP
+17,94 - JUMP
+17,95 - JUMP
+17,96 - JUMP
+17,97 - JUMP
+17,98 - JUMP
+17,99 - JUMP
+18 - JUMP
+18,01 - JUMP
+18,02 - JUMP
+18,03 - JUMP
+18,04 - JUMP
+18,05 - JUMP
+18,06 - JUMP
+18,07 - JUMP
+18,08 - JUMP
+18,09 - JUMP
+18,1 - JUMP
+18,11 - JUMP
+18,12 - JUMP
+18,13 - JUMP
+18,14 - JUMP
+18,15 - JUMP
+18,16 - JUMP
+18,17 - JUMP
+18,18 - JUMP
+18,19 - JUMP
+18,2 - JUMP
+18,21 - JUMP
+18,22 - JUMP
+18,23 - JUMP
+18,24 - JUMP
+18,25 - JUMP
+18,26 - JUMP
+18,27 - JUMP
+18,28 - JUMP
+18,29 - JUMP
+18,3 - JUMP
+18,31 - JUMP
+18,32 - JUMP
+18,33 - JUMP
+18,34 - JUMP
+18,35 - JUMP
+18,36 - JUMP
+18,37 - JUMP
+18,38 - JUMP
+18,39 - JUMP
+18,4 - JUMP
+18,41 - JUMP
+18,42 - JUMP
+18,43 - JUMP
+18,44 - JUMP
+18,45 - JUMP
+18,46 - JUMP
+18,47 - JUMP
+18,48 - JUMP
+18,49 - JUMP
+18,5 - JUMP
+18,51 - JUMP
+18,52 - JUMP
+18,53 - JUMP
+18,54 - JUMP
+18,55 - JUMP
+18,56 - JUMP
+18,57 - JUMP
+18,58 - JUMP
+18,59 - JUMP
+18,6 - JUMP
+18,61 - JUMP
+18,62 - JUMP
+18,63 - JUMP
+18,64 - JUMP
+18,65 - JUMP
+18,66 - JUMP
+18,67 - JUMP
+18,68 - JUMP
+18,69 - JUMP
+18,7 - JUMP
+18,71 - JUMP
+18,72 - JUMP
+18,73 - JUMP
+18,74 - JUMP
+18,75 - JUMP
+18,76 - JUMP
+18,77 - JUMP
+18,78 - JUMP
+18,79 - JUMP
+18,8 - JUMP
+18,81 - JUMP
+18,82 - JUMP
+18,83 - JUMP
+18,84 - JUMP
+18,85 - JUMP
+18,86 - JUMP
+18,87 - JUMP
+18,88 - JUMP
+18,89 - JUMP
+18,9 - JUMP
+18,91 - JUMP
+18,92 - JUMP
+18,93 - JUMP
+18,94 - JUMP
+18,95 - JUMP
+18,96 - JUMP
+18,97 - JUMP
+18,98 - JUMP
+18,99 - JUMP
+19 - JUMP
+19,01 - JUMP
+19,02 - JUMP
+19,03 - JUMP
+19,04 - JUMP
+19,05 - JUMP
+19,06 - JUMP
+19,07 - JUMP
+19,08 - JUMP
+19,09 - JUMP
+19,1 - JUMP
+19,11 - JUMP
+19,12 - JUMP
+19,13 - JUMP
+19,14 - JUMP
+19,15 - JUMP
+19,16 - JUMP
+19,17 - JUMP
+19,18 - JUMP
+19,19 - JUMP
+19,2 - JUMP
+19,21 - JUMP
+19,22 - JUMP
+19,23 - JUMP
+19,24 - JUMP
+19,25 - JUMP
+19,26 - JUMP
+19,27 - JUMP
+19,28 - JUMP
+19,29 - JUMP
+19,3 - JUMP
+19,31 - JUMP
+19,32 - JUMP
+19,33 - JUMP
+19,34 - JUMP
+19,35 - JUMP
+19,36 - JUMP
+19,37 - JUMP
+19,38 - JUMP
+19,39 - JUMP
+19,4 - JUMP
+19,41 - JUMP
+19,42 - Roll Left
+19,43 - Roll Left
+19,44 - Roll Left
+19,45 - Roll Left
+19,46 - Roll Left
+19,47 - Roll Left
+19,48 - Roll Left
+19,49 - Roll Left
+19,5 - Roll Left
+19,51 - Roll Left
+19,52 - Roll Left
+19,53 - Roll Left
+19,54 - Roll Left
+19,55 - Roll Left
+19,56 - Roll Left
+19,57 - Roll Left
+19,58 - Roll Left
+19,59 - Roll Left
+19,6 - Roll Left
+19,61 - Roll Left
+19,62 - Roll Left
+19,63 - Roll Left
+19,64 - Roll Left
+19,65 - Roll Left
+19,66 - Roll Left
+19,67 - Roll Left
+19,68 - Roll Left
+19,69 - Roll Left
+19,7 - Roll Left
+19,71 - Roll Left
+19,72 - Roll Left
+19,73 - Roll Left
+19,74 - Roll Left
+19,75 - Roll Left
+19,76 - Roll Left
+19,77 - Roll Left
+19,78 - Roll Left
+19,79 - Roll Left
+19,8 - Roll Left
+19,81 - Roll Left
+19,82 - Roll Left
+19,83 - Roll Left
+19,84 - Roll Left
+19,85 - Roll Left
+19,86 - Roll Left
+19,87 - Roll Left
+19,88 - Roll Left
+19,89 - Roll Left
+19,9 - Roll Left
+19,91 - Roll Left
+19,92 - Roll Left
+19,93 - Roll Left
+19,94 - Roll Left
+19,95 - Roll Left
+19,96 - Roll Left
+19,97 - Roll Left
+19,98 - Roll Left
+19,99 - Roll Left
+20 - Roll Left
+20,01 - Roll Left
+20,02 - Roll Left
+20,03 - Roll Left
+20,04 - Roll Left
+20,05 - Roll Left
+20,06 - Roll Left
+20,07 - Roll Left
+20,08 - Roll Left
+20,09 - Roll Left
+20,1 - Roll Left
+20,11 - Roll Left
+20,12 - Roll Left
+20,13 - Roll Left
+20,14 - Roll Left
+20,15 - Roll Left
+20,16 - Roll Left
+20,17 - Roll Left
+20,18 - Roll Left
+20,19 - Roll Left
+20,2 - Roll Left
+20,21 - Roll Left
+20,22 - Roll Left
+20,23 - Roll Left
+20,24 - Roll Left
+20,25 - Roll Left
+20,26 - Roll Left
+20,27 - Roll Left
+20,28 - Roll Left
+20,29 - Roll Left
+20,3 - Roll Left
+20,31 - Roll Left
+20,32 - Roll Left
+20,33 - Roll Left
+20,34 - Roll Left
+20,35 - Roll Left
+20,36 - Roll Left
+20,37 - Roll Left
+20,38 - Roll Left
+20,39 - Roll Left
+20,4 - Roll Left
+20,41 - Roll Left
+20,42 - Roll Left
+20,43 - Roll Left
+20,44 - JUMP
+20,45 - JUMP
+20,46 - JUMP
+20,47 - JUMP
+20,48 - JUMP
+20,49 - JUMP
+20,5 - JUMP
+20,51 - JUMP
+20,52 - JUMP
+20,53 - JUMP
+20,54 - JUMP
+20,55 - JUMP
+20,56 - JUMP
+20,57 - JUMP
+20,58 - JUMP
+20,59 - JUMP
+20,6 - JUMP
+20,61 - JUMP
+20,62 - JUMP
+20,63 - JUMP
+20,64 - JUMP
+20,65 - JUMP
+20,66 - JUMP
+20,67 - JUMP
+20,68 - JUMP
+20,69 - JUMP
+20,7 - JUMP
+20,71 - JUMP
+20,72 - JUMP
+20,73 - JUMP
+20,74 - JUMP
+20,75 - JUMP
+20,76 - JUMP
+20,77 - JUMP
+20,78 - JUMP
+20,79 - JUMP
+20,8 - JUMP
+20,81 - JUMP
+20,82 - JUMP
+20,83 - JUMP
+20,84 - JUMP
+20,85 - JUMP
+20,86 - JUMP
+20,87 - JUMP
+20,88 - JUMP
+20,89 - JUMP
+20,9 - JUMP
+20,91 - JUMP
+20,92 - JUMP
+20,93 - JUMP
+20,94 - JUMP
+20,95 - JUMP
+20,96 - JUMP
+20,97 - JUMP
+20,98 - JUMP
+20,99 - JUMP
+21 - JUMP
+21,01 - JUMP
+21,02 - JUMP
+21,03 - JUMP
+21,04 - JUMP
+21,05 - JUMP
+21,06 - JUMP
+21,07 - JUMP
+21,08 - JUMP
+21,09 - JUMP
+21,1 - JUMP
+21,11 - JUMP
+21,12 - JUMP
+21,13 - JUMP
+21,14 - JUMP
+21,15 - JUMP
+21,16 - JUMP
+21,17 - JUMP
+21,18 - JUMP
+21,19 - JUMP
+21,2 - JUMP
+21,21 - JUMP
+21,22 - JUMP
+21,23 - JUMP
+21,24 - JUMP
+21,25 - JUMP
+21,26 - JUMP
+21,27 - JUMP
+21,28 - JUMP
+21,29 - JUMP
+21,3 - JUMP
+21,31 - JUMP
+21,32 - JUMP
+21,33 - JUMP
+21,34 - JUMP
+21,35 - JUMP
+21,36 - JUMP
+21,37 - JUMP
+21,38 - JUMP
+21,39 - JUMP
+21,4 - JUMP
+21,41 - JUMP
+21,42 - JUMP
+21,43 - JUMP
+21,44 - JUMP
+21,45 - JUMP
+21,46 - JUMP
+21,47 - JUMP
+21,48 - JUMP
+21,49 - JUMP
+21,5 - JUMP
+21,51 - JUMP
+21,52 - JUMP
+21,53 - JUMP
+21,54 - JUMP
+21,55 - JUMP
+21,56 - JUMP
+21,57 - JUMP
+21,58 - JUMP
+21,59 - JUMP
+21,6 - JUMP
+21,61 - JUMP
+21,62 - JUMP
+21,63 - JUMP
+21,64 - JUMP
+21,65 - JUMP
+21,66 - JUMP
+21,67 - JUMP
+21,68 - JUMP
+21,69 - JUMP
+21,7 - JUMP
+21,71 - JUMP
+21,72 - JUMP
+21,73 - JUMP
+21,74 - JUMP
+21,75 - JUMP
+21,76 - JUMP
+21,77 - JUMP
+21,78 - JUMP
+21,79 - JUMP
+21,8 - JUMP
+21,81 - JUMP
+21,82 - JUMP
+21,83 - JUMP
+21,84 - JUMP
+21,85 - JUMP
+21,86 - JUMP
+21,87 - JUMP
+21,88 - JUMP
+21,89 - JUMP
+21,9 - JUMP
+21,91 - JUMP
+21,92 - JUMP
+21,93 - JUMP
+21,94 - JUMP
+21,95 - JUMP
+21,96 - JUMP
+21,97 - JUMP
+21,98 - JUMP
+21,99 - JUMP
+22 - JUMP
+22,01 - JUMP
+22,02 - JUMP
+22,03 - JUMP
+22,04 - JUMP
+22,05 - JUMP
+22,06 - JUMP
+22,07 - JUMP
+22,08 - JUMP
+22,09 - JUMP
+22,1 - JUMP
+22,11 - JUMP
+22,12 - JUMP
+22,13 - JUMP
+22,14 - JUMP
+22,15 - JUMP
+22,16 - JUMP
+22,17 - JUMP
+22,18 - JUMP
+22,19 - JUMP
+22,2 - JUMP
+22,21 - JUMP
+22,22 - JUMP
+22,23 - JUMP
+22,24 - JUMP
+22,25 - JUMP
+22,26 - JUMP
+22,27 - JUMP
+22,28 - JUMP
+22,29 - JUMP
+22,3 - JUMP
+22,31 - JUMP
+22,32 - JUMP
+22,33 - JUMP
+22,34 - JUMP
+22,35 - JUMP
+22,36 - JUMP
+22,37 - JUMP
+22,38 - JUMP
+22,39 - JUMP
+22,4 - JUMP
+22,41 - JUMP
+22,42 - JUMP
+22,43 - JUMP
+22,44 - JUMP
+22,45 - JUMP
+22,46 - JUMP
+22,47 - JUMP
+22,48 - JUMP
+22,49 - JUMP
+22,5 - JUMP
+22,51 - JUMP
+22,52 - JUMP
+22,53 - JUMP
+22,54 - JUMP
+22,55 - JUMP
+22,56 - JUMP
+22,57 - JUMP
+22,58 - JUMP
+22,59 - JUMP
+22,6 - JUMP
+22,61 - JUMP
+22,62 - JUMP
+22,63 - JUMP
+22,64 - JUMP
+22,65 - JUMP
+22,66 - JUMP
+22,67 - JUMP
+22,68 - JUMP
+22,69 - JUMP
+22,7 - JUMP
+22,71 - JUMP
+22,72 - JUMP
+22,73 - JUMP
+22,74 - JUMP
+22,75 - JUMP
+22,76 - JUMP
+22,77 - JUMP
+22,78 - JUMP
+22,79 - JUMP
+22,8 - JUMP
+22,81 - JUMP
+22,82 - JUMP
+22,83 - JUMP
+22,84 - JUMP
+22,85 - JUMP
+22,86 - JUMP
+22,87 - JUMP
+22,88 - JUMP
+22,89 - JUMP
+22,9 - JUMP
+22,91 - JUMP
+22,92 - JUMP
+22,93 - JUMP
+22,94 - JUMP
+22,95 - JUMP
+22,96 - JUMP
+22,97 - JUMP
+22,98 - JUMP
+22,99 - JUMP
+23 - JUMP
+23,01 - JUMP
+23,02 - JUMP
+23,03 - JUMP
+23,04 - JUMP
+23,05 - JUMP
+23,06 - JUMP
+23,07 - JUMP
+23,08 - JUMP
+23,09 - JUMP
+23,1 - JUMP
+23,11 - JUMP
+23,12 - JUMP
+23,13 - JUMP
+23,14 - JUMP
+23,15 - JUMP
+23,16 - JUMP
+23,17 - JUMP
+23,18 - JUMP
+23,19 - JUMP
+23,2 - JUMP
+23,21 - JUMP
+23,22 - JUMP
+23,23 - JUMP
+23,24 - JUMP
+23,25 - JUMP
+23,26 - JUMP
+23,27 - JUMP
+23,28 - JUMP
+23,29 - JUMP
+23,3 - JUMP
+23,31 - JUMP
+23,32 - JUMP
+23,33 - JUMP
+23,34 - JUMP
+23,35 - JUMP
+23,36 - JUMP
+23,37 - JUMP
+23,38 - JUMP
+23,39 - JUMP
+23,4 - JUMP
+23,41 - JUMP
+23,42 - JUMP
+23,43 - JUMP
+23,44 - JUMP
+23,45 - JUMP
+23,46 - JUMP
+23,47 - JUMP
+23,48 - JUMP
+23,49 - JUMP
+23,5 - JUMP
+23,51 - JUMP
+23,52 - JUMP
+23,53 - JUMP
+23,54 - JUMP
+23,55 - JUMP
+23,56 - JUMP
+23,57 - JUMP
+23,58 - JUMP
+23,59 - JUMP
+23,6 - JUMP
+23,61 - JUMP
+23,62 - JUMP
+23,63 - JUMP
+23,64 - JUMP
+23,65 - JUMP
+23,66 - JUMP
+23,67 - JUMP
+23,68 - JUMP
+23,69 - JUMP
+23,7 - JUMP
+23,71 - JUMP
+23,72 - JUMP
+23,73 - JUMP
+23,74 - JUMP
+23,75 - JUMP
+23,76 - JUMP
+23,77 - JUMP
+23,78 - JUMP
+23,79 - JUMP
+23,8 - JUMP
+23,81 - JUMP
+23,82 - JUMP
+23,83 - JUMP
+23,84 - JUMP
+23,85 - JUMP
+23,86 - JUMP
+23,87 - JUMP
+23,88 - JUMP
+23,89 - JUMP
+23,9 - JUMP
+23,91 - JUMP
+23,92 - JUMP
+23,93 - JUMP
+23,94 - JUMP
+23,95 - JUMP
+23,96 - JUMP
+23,97 - JUMP
+23,98 - JUMP
+23,99 - JUMP
+24 - JUMP
+24,01 - JUMP
+24,02 - JUMP
+24,03 - JUMP
+24,04 - JUMP
+24,05 - JUMP
+24,06 - JUMP
+24,07 - JUMP
+24,08 - JUMP
+24,09 - JUMP
+24,1 - JUMP
+24,11 - JUMP
+24,12 - JUMP
+24,13 - JUMP
+24,14 - JUMP
+24,15 - JUMP
+24,16 - JUMP
+24,17 - JUMP
+24,18 - JUMP
+24,19 - JUMP
+24,2 - JUMP
+24,21 - JUMP
+24,22 - JUMP
+24,23 - JUMP
+24,24 - JUMP
+24,25 - JUMP
+24,26 - JUMP
+24,27 - JUMP
+24,28 - JUMP
+24,29 - JUMP
+24,3 - JUMP
+24,31 - JUMP
+24,32 - JUMP
+24,33 - JUMP
+24,34 - JUMP
+24,35 - JUMP
+24,36 - JUMP
+24,37 - JUMP
+24,38 - JUMP
+24,39 - JUMP
+24,4 - JUMP
+24,41 - JUMP
+24,42 - JUMP
+24,43 - JUMP
+24,44 - JUMP
+24,45 - JUMP
+24,46 - JUMP
+24,47 - JUMP
+24,48 - JUMP
+24,49 - JUMP
+24,5 - Roll Left
+24,51 - Roll Left
+24,52 - Roll Left
+24,53 - Roll Left
+24,54 - Roll Left
+24,55 - Roll Left
+24,56 - Roll Left
+24,57 - Roll Left
+24,58 - Roll Left
+24,59 - Roll Left
+24,6 - Roll Left
+24,61 - Roll Left
+24,62 - Roll Left
+24,63 - Roll Left
+24,64 - Roll Left
+24,65 - Roll Left
+24,66 - Roll Left
+24,67 - Roll Left
+24,68 - Roll Left
+24,69 - Roll Left
+24,7 - Roll Left
+24,71 - Roll Left
+24,72 - Roll Left
+24,73 - Roll Left
+24,74 - Roll Left
+24,75 - Roll Left
+24,76 - Roll Left
+24,77 - Roll Left
+24,78 - Roll Left
+24,79 - Roll Left
+24,8 - Roll Left
+24,81 - Roll Left
+24,82 - Roll Left
+24,83 - Roll Left
+24,84 - Roll Left
+24,85 - Roll Left
+24,86 - Roll Left
+24,87 - Roll Left
+24,88 - Roll Left
+24,89 - Roll Left
+24,9 - Roll Left
+24,91 - Roll Left
+24,92 - Roll Left
+24,93 - Roll Left
+24,94 - Roll Left
+24,95 - Roll Left
+24,96 - Roll Left
+24,97 - Roll Left
+24,98 - Roll Left
+24,99 - Roll Left
+25 - Roll Left
+25,01 - Roll Left
+25,02 - Roll Left
+25,03 - Roll Left
+25,04 - Roll Left
+25,05 - Roll Left
+25,06 - Roll Left
+25,07 - Roll Left
+25,08 - Roll Left
+25,09 - Roll Left
+25,1 - Roll Left
+25,11 - Roll Left
+25,12 - Roll Left
+25,13 - Roll Left
+25,14 - Roll Left
+25,15 - Roll Left
+25,16 - Roll Left
+25,17 - Roll Left
+25,18 - Roll Left
+25,19 - Roll Left
+25,2 - Roll Left
+25,21 - Roll Left
+25,22 - Roll Left
+25,23 - Roll Left
+25,24 - Roll Left
+25,25 - Roll Left
+25,26 - Roll Left
+25,27 - Roll Left
+25,28 - Roll Left
+25,29 - Roll Left
+25,3 - Roll Left
+25,31 - Roll Left
+25,32 - Roll Left
+25,33 - Roll Left
+25,34 - Roll Left
+25,35 - Roll Left
+25,36 - Roll Left
+25,37 - Roll Left
+25,38 - Roll Left
+25,39 - Roll Left
+25,4 - Roll Left
+25,41 - Roll Left
+25,42 - Roll Left
+25,43 - Roll Left
+25,44 - Roll Left
+25,45 - Roll Left
+25,46 - Roll Left
+25,47 - Roll Left
+25,48 - Roll Left
+25,49 - Roll Left
+25,5 - Roll Left
+25,51 - Roll Right
+25,52 - Roll Right
+25,53 - Roll Right
+25,54 - Roll Right
+25,55 - Roll Right
+25,56 - Roll Right
+25,57 - Roll Right
+25,58 - Roll Right
+25,59 - Roll Right
+25,6 - Roll Right
+25,61 - Roll Right
+25,62 - Roll Right
+25,63 - Roll Right
+25,64 - Roll Right
+25,65 - Roll Right
+25,66 - Roll Right
+25,67 - Roll Right
+25,68 - Roll Right
+25,69 - Roll Right
+25,7 - Roll Right
+25,71 - Roll Right
+25,72 - Roll Right
+25,73 - Roll Right
+25,74 - Roll Right
+25,75 - Roll Right
+25,76 - Roll Right
+25,77 - Roll Right
+25,78 - Roll Right
+25,79 - Roll Right
+25,8 - Roll Right
+25,81 - Roll Right
+25,82 - Roll Right
+25,83 - Roll Right
+25,84 - Roll Right
+25,85 - Roll Right
+25,86 - Roll Right
+25,87 - Roll Right
+25,88 - Roll Right
+25,89 - Roll Right
+25,9 - Roll Right
+25,91 - Roll Right
+25,92 - Roll Right
+25,93 - Roll Right
+25,94 - Roll Right
+25,95 - Roll Right
+25,96 - Roll Right
+25,97 - Roll Right
+25,98 - Roll Right
+25,99 - Roll Right
+26 - Roll Right
+26,01 - Roll Right
+26,02 - Roll Right
+26,03 - Roll Right
+26,04 - Roll Right
+26,05 - Roll Right
+26,06 - Roll Right
+26,07 - Roll Right
+26,08 - Roll Right
+26,09 - Roll Right
+26,1 - Roll Right
+26,11 - Roll Right
+26,12 - Roll Right
+26,13 - Roll Right
+26,14 - Roll Right
+26,15 - Roll Right
+26,16 - Roll Right
+26,17 - Roll Right
+26,18 - Roll Right
+26,19 - Roll Right
+26,2 - Roll Right
+26,21 - Roll Right
+26,22 - Roll Right
+26,23 - Roll Right
+26,24 - Roll Right
+26,25 - Roll Right
+26,26 - Roll Right
+26,27 - Roll Right
+26,28 - Roll Right
+26,29 - Roll Right
+26,3 - Roll Right
+26,31 - Roll Right
+26,32 - Roll Right
+26,33 - Roll Right
+26,34 - Roll Right
+26,35 - Roll Right
+26,36 - Roll Right
+26,37 - Roll Right
+26,38 - Roll Right
+26,39 - Roll Right
+26,4 - Roll Right
+26,41 - Roll Right
+26,42 - Roll Right
+26,43 - Roll Right
+26,44 - Roll Right
+26,45 - Roll Right
+26,46 - Roll Right
+26,47 - Roll Right
+26,48 - Roll Right
+26,49 - Roll Right
+26,5 - Roll Right
+26,51 - Roll Right
+26,52 - Roll Right
+26,53 - Roll Left
+26,54 - Roll Left
+26,55 - Roll Left
+26,56 - Roll Left
+26,57 - Roll Left
+26,58 - Roll Left
+26,59 - Roll Left
+26,6 - Roll Left
+26,61 - Roll Left
+26,62 - Roll Left
+26,63 - Roll Left
+26,64 - Roll Left
+26,65 - Roll Left
+26,66 - Roll Left
+26,67 - Roll Left
+26,68 - Roll Left
+26,69 - Roll Left
+26,7 - Roll Left
+26,71 - Roll Left
+26,72 - Roll Left
+26,73 - Roll Left
+26,74 - Roll Left
+26,75 - Roll Left
+26,76 - Roll Left
+26,77 - Roll Left
+26,78 - Roll Left
+26,79 - Roll Left
+26,8 - Roll Left
+26,81 - Roll Left
+26,82 - Roll Left
+26,83 - Roll Left
+26,84 - Roll Left
+26,85 - Roll Left
+26,86 - Roll Left
+26,87 - Roll Left
+26,88 - Roll Left
+26,89 - Roll Left
+26,9 - Roll Left
+26,91 - Roll Left
+26,92 - Roll Left
+26,93 - Roll Left
+26,94 - Roll Left
+26,95 - Roll Left
+26,96 - Roll Left
+26,97 - Roll Left
+26,98 - Roll Left
+26,99 - Roll Left
+27 - Roll Left
+27,01 - Roll Left
+27,02 - Roll Left
+27,03 - Roll Left
+27,04 - Roll Left
+27,05 - Roll Left
+27,06 - Roll Left
+27,07 - Roll Left
+27,08 - Roll Left
+27,09 - Roll Left
+27,1 - Roll Left
+27,11 - Roll Left
+27,12 - Roll Left
+27,13 - Roll Left
+27,14 - Roll Left
+27,15 - Roll Left
+27,16 - Roll Left
+27,17 - Roll Left
+27,18 - Roll Left
+27,19 - Roll Left
+27,2 - Roll Left
+27,21 - Roll Left
+27,22 - Roll Left
+27,23 - Roll Left
+27,24 - Roll Left
+27,25 - Roll Left
+27,26 - Roll Left
+27,27 - Roll Left
+27,28 - Roll Left
+27,29 - Roll Left
+27,3 - Roll Left
+27,31 - Roll Left
+27,32 - Roll Left
+27,33 - Roll Left
+27,34 - Roll Left
+27,35 - Roll Left
+27,36 - Roll Left
+27,37 - Roll Left
+27,38 - Roll Left
+27,39 - Roll Left
+27,4 - Roll Left
+27,41 - Roll Left
+27,42 - Roll Left
+27,43 - Roll Left
+27,44 - Roll Left
+27,45 - Roll Left
+27,46 - Roll Left
+27,47 - Roll Left
+27,48 - Roll Left
+27,49 - Roll Left
+27,5 - Roll Left
+27,51 - Roll Left
+27,52 - Roll Left
+27,53 - Roll Left
+27,54 - Roll Left
+27,55 - Roll Right
+27,56 - Roll Right
+27,57 - Roll Right
+27,58 - Roll Right
+27,59 - Roll Right
+27,6 - Roll Right
+27,61 - Roll Right
+27,62 - Roll Right
+27,63 - Roll Right
+27,64 - Roll Right
+27,65 - Roll Right
+27,66 - Roll Right
+27,67 - Roll Right
+27,68 - Roll Right
+27,69 - Roll Right
+27,7 - Roll Right
+27,71 - Roll Right
+27,72 - Roll Right
+27,73 - Roll Right
+27,74 - Roll Right
+27,75 - Roll Right
+27,76 - Roll Right
+27,77 - Roll Right
+27,78 - Roll Right
+27,79 - Roll Right
+27,8 - Roll Right
+27,81 - Roll Right
+27,82 - Roll Right
+27,83 - Roll Right
+27,84 - Roll Right
+27,85 - Roll Right
+27,86 - Roll Right
+27,87 - Roll Right
+27,88 - Roll Right
+27,89 - Roll Right
+27,9 - Roll Right
+27,91 - Roll Right
+27,92 - Roll Right
+27,93 - Roll Right
+27,94 - Roll Right
+27,95 - Roll Right
+27,96 - Roll Right
+27,97 - Roll Right
+27,98 - Roll Right
+27,99 - Roll Right
+28 - Roll Right
+28,01 - Roll Right
+28,02 - Roll Right
+28,03 - Roll Right
+28,04 - Roll Right
+28,05 - Roll Right
+28,06 - Roll Right
+28,07 - Roll Right
+28,08 - Roll Right
+28,09 - Roll Right
+28,1 - Roll Right
+28,11 - Roll Right
+28,12 - Roll Right
+28,13 - Roll Right
+28,14 - Roll Right
+28,15 - Roll Right
+28,16 - Roll Right
+28,17 - Roll Right
+28,18 - Roll Right
+28,19 - Roll Right
+28,2 - Roll Right
+28,21 - Roll Right
+28,22 - Roll Right
+28,23 - Roll Right
+28,24 - Roll Right
+28,25 - Roll Right
+28,26 - Roll Right
+28,27 - Roll Right
+28,28 - Roll Right
+28,29 - Roll Right
+28,3 - Roll Right
+28,31 - Roll Right
+28,32 - Roll Right
+28,33 - Roll Right
+28,34 - Roll Right
+28,35 - Roll Right
+28,36 - Roll Right
+28,37 - Roll Right
+28,38 - Roll Right
+28,39 - Roll Right
+28,4 - Roll Right
+28,41 - Roll Right
+28,42 - Roll Right
+28,43 - Roll Right
+28,44 - Roll Right
+28,45 - Roll Right
+28,46 - Roll Right
+28,47 - Roll Right
+28,48 - Roll Right
+28,49 - Roll Right
+28,5 - Roll Right
+28,51 - Roll Right
+28,52 - Roll Right
+28,53 - Roll Right
+28,54 - Roll Right
+28,55 - Roll Right
+28,56 - JUMP
+28,57 - JUMP
+28,58 - JUMP
+28,59 - JUMP
+28,6 - JUMP
+28,61 - JUMP
+28,62 - JUMP
+28,63 - JUMP
+28,64 - JUMP
+28,65 - JUMP
+28,66 - JUMP
+28,67 - JUMP
+28,68 - JUMP
+28,69 - JUMP
+28,7 - JUMP
+28,71 - JUMP
+28,72 - JUMP
+28,73 - JUMP
+28,74 - JUMP
+28,75 - JUMP
+28,76 - JUMP
+28,77 - JUMP
+28,78 - JUMP
+28,79 - JUMP
+28,8 - JUMP
+28,81 - JUMP
+28,82 - JUMP
+28,83 - JUMP
+28,84 - JUMP
+28,85 - JUMP
+28,86 - JUMP
+28,87 - JUMP
+28,88 - JUMP
+28,89 - JUMP
+28,9 - JUMP
+28,91 - JUMP
+28,92 - JUMP
+28,93 - JUMP
+28,94 - JUMP
+28,95 - JUMP
+28,96 - JUMP
+28,97 - JUMP
+28,98 - JUMP
+28,99 - JUMP
+29 - JUMP
+29,01 - JUMP
+29,02 - JUMP
+29,03 - JUMP
+29,04 - JUMP
+29,05 - JUMP
+29,06 - JUMP
+29,07 - JUMP
+29,08 - JUMP
+29,09 - JUMP
+29,1 - JUMP
+29,11 - JUMP
+29,12 - JUMP
+29,13 - JUMP
+29,14 - JUMP
+29,15 - JUMP
+29,16 - JUMP
+29,17 - JUMP
+29,18 - JUMP
+29,19 - JUMP
+29,2 - JUMP
+29,21 - JUMP
+29,22 - JUMP
+29,23 - JUMP
+29,24 - JUMP
+29,25 - JUMP
+29,26 - JUMP
+29,27 - JUMP
+29,28 - JUMP
+29,29 - JUMP
+29,3 - JUMP
+29,31 - JUMP
+29,32 - JUMP
+29,33 - JUMP
+29,34 - JUMP
+29,35 - JUMP
+29,36 - JUMP
+29,37 - JUMP
+29,38 - JUMP
+29,39 - JUMP
+29,4 - JUMP
+29,41 - JUMP
+29,42 - JUMP
+29,43 - JUMP
+29,44 - JUMP
+29,45 - JUMP
+29,46 - JUMP
+29,47 - JUMP
+29,48 - JUMP
+29,49 - JUMP
+29,5 - JUMP
+29,51 - JUMP
+29,52 - JUMP
+29,53 - JUMP
+29,54 - JUMP
+29,55 - JUMP
+29,56 - JUMP
+29,57 - JUMP
+29,58 - JUMP
+29,59 - JUMP
+29,6 - JUMP
+29,61 - JUMP
+29,62 - JUMP
+29,63 - JUMP
+29,64 - JUMP
+29,65 - JUMP
+29,66 - JUMP
+29,67 - JUMP
+29,68 - JUMP
+29,69 - JUMP
+29,7 - JUMP
+29,71 - JUMP
+29,72 - JUMP
+29,73 - JUMP
+29,74 - JUMP
+29,75 - JUMP
+29,76 - JUMP
+29,77 - JUMP
+29,78 - JUMP
+29,79 - JUMP
+29,8 - JUMP
+29,81 - JUMP
+29,82 - JUMP
+29,83 - JUMP
+29,84 - JUMP
+29,85 - JUMP
+29,86 - JUMP
+29,87 - JUMP
+29,88 - JUMP
+29,89 - JUMP
+29,9 - JUMP
+29,91 - JUMP
+29,92 - JUMP
+29,93 - JUMP
+29,94 - JUMP
+29,95 - JUMP
+29,96 - JUMP
+29,97 - JUMP
+29,98 - JUMP
+29,99 - JUMP
+30 - JUMP
+30,01 - JUMP
+30,02 - JUMP
+30,03 - JUMP
+30,04 - JUMP
+30,05 - JUMP
+30,06 - JUMP
+30,07 - JUMP
+30,08 - JUMP
+30,09 - JUMP
+Collectible Captured at Time 30,09 :::::::::::::::::::::::::::: Collectibles Left : 1
+30,1 - JUMP
+30,11 - JUMP
+30,12 - JUMP
+30,13 - JUMP
+30,14 - JUMP
+30,15 - JUMP
+30,16 - JUMP
+30,17 - JUMP
+30,18 - JUMP
+30,19 - JUMP
+30,2 - JUMP
+30,21 - JUMP
+30,22 - JUMP
+30,23 - JUMP
+30,24 - JUMP
+30,25 - JUMP
+30,26 - JUMP
+30,27 - JUMP
+30,28 - JUMP
+30,29 - JUMP
+30,3 - JUMP
+30,31 - JUMP
+30,32 - JUMP
+30,33 - JUMP
+30,34 - JUMP
+30,35 - JUMP
+30,36 - JUMP
+30,37 - JUMP
+30,38 - JUMP
+30,39 - JUMP
+30,4 - JUMP
+30,41 - JUMP
+30,42 - JUMP
+30,43 - JUMP
+30,44 - JUMP
+30,45 - JUMP
+30,46 - JUMP
+30,47 - JUMP
+30,48 - JUMP
+30,49 - JUMP
+30,5 - JUMP
+30,51 - JUMP
+30,52 - JUMP
+30,53 - JUMP
+30,54 - JUMP
+30,55 - JUMP
+30,56 - JUMP
+30,57 - JUMP
+30,58 - JUMP
+30,59 - Roll Right
+30,6 - Roll Right
+30,61 - Roll Right
+30,62 - Roll Right
+30,63 - Roll Right
+30,64 - Roll Right
+30,65 - Roll Right
+30,66 - Roll Right
+30,67 - Roll Right
+30,68 - Roll Right
+30,69 - Roll Right
+30,7 - Roll Right
+30,71 - Roll Right
+30,72 - Roll Right
+30,73 - Roll Right
+30,74 - Roll Right
+30,75 - Roll Right
+30,76 - Roll Right
+30,77 - Roll Right
+30,78 - Roll Right
+30,79 - Roll Right
+30,8 - Roll Right
+30,81 - Roll Right
+30,82 - Roll Right
+30,83 - Roll Right
+30,84 - Roll Right
+30,85 - Roll Right
+30,86 - Roll Right
+30,87 - Roll Right
+30,88 - Roll Right
+30,89 - Roll Right
+30,9 - Roll Right
+30,91 - Roll Right
+30,92 - Roll Right
+30,93 - Roll Right
+30,94 - Roll Right
+30,95 - Roll Right
+30,96 - Roll Right
+30,97 - Roll Right
+30,98 - Roll Right
+30,99 - Roll Right
+31 - Roll Right
+31,01 - Roll Right
+31,02 - Roll Right
+31,03 - Roll Right
+31,04 - Roll Right
+31,05 - Roll Right
+31,06 - Roll Right
+31,07 - Roll Right
+31,08 - Roll Right
+31,09 - Roll Right
+31,1 - Roll Right
+31,11 - Roll Right
+31,12 - Roll Right
+31,13 - Roll Right
+31,14 - Roll Right
+31,15 - Roll Right
+31,16 - Roll Right
+31,17 - Roll Right
+31,18 - Roll Right
+31,19 - Roll Right
+31,2 - Roll Right
+31,21 - Roll Right
+31,22 - Roll Right
+31,23 - Roll Right
+31,24 - Roll Right
+31,25 - Roll Right
+31,26 - Roll Right
+31,27 - Roll Right
+31,28 - Roll Right
+31,29 - Roll Right
+31,3 - Roll Right
+31,31 - Roll Right
+31,32 - Roll Right
+31,33 - Roll Right
+31,34 - Roll Right
+31,35 - Roll Right
+31,36 - Roll Right
+31,37 - Roll Right
+31,38 - Roll Right
+31,39 - Roll Right
+31,4 - Roll Right
+31,41 - Roll Right
+31,42 - Roll Right
+31,43 - Roll Right
+31,44 - Roll Right
+31,45 - Roll Right
+31,46 - Roll Right
+31,47 - Roll Right
+31,48 - Roll Right
+31,49 - Roll Right
+31,5 - Roll Right
+31,51 - Roll Right
+31,52 - Roll Right
+31,53 - Roll Right
+31,54 - Roll Right
+31,55 - Roll Right
+31,56 - Roll Right
+31,57 - Roll Right
+31,58 - Roll Right
+31,59 - Roll Right
+31,6 - Roll Right
+31,61 - Roll Right
+31,62 - Roll Right
+31,63 - Roll Right
+31,64 - Roll Right
+31,65 - Roll Right
+31,66 - Roll Right
+31,67 - Roll Right
+31,68 - Roll Right
+31,69 - Roll Right
+31,7 - Roll Right
+31,71 - Roll Right
+31,72 - Roll Right
+31,73 - Roll Right
+31,74 - Roll Right
+31,75 - Roll Right
+31,76 - Roll Right
+31,77 - Roll Right
+31,78 - Roll Right
+31,79 - Roll Right
+31,8 - Roll Right
+31,81 - Roll Right
+31,82 - Roll Right
+31,83 - Roll Right
+31,84 - Roll Right
+31,85 - Roll Right
+31,86 - Roll Right
+31,87 - Roll Right
+31,88 - Roll Right
+31,89 - Roll Right
+31,9 - Roll Right
+31,91 - Roll Right
+31,92 - Roll Right
+31,93 - Roll Right
+31,94 - Roll Right
+31,95 - Roll Right
+31,96 - Roll Right
+31,97 - Roll Right
+31,98 - Roll Right
+31,99 - Roll Right
+32 - Roll Right
+32,01 - Roll Right
+32,02 - Roll Right
+32,03 - Roll Right
+32,04 - Roll Right
+32,05 - Roll Right
+32,06 - Roll Right
+32,07 - Roll Right
+32,08 - Roll Right
+32,09 - Roll Right
+32,1 - Roll Right
+Level Finished at time 32,11
+The Total Number of Action calls made = 3210

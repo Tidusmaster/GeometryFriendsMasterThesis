@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Levels>
+  <Level1>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="104" Y="696" />
+    <SquareStartingPosition X="1160" Y="696" />
+    <Collectibles>
+      <Collectible X="232" Y="168" />
+      <Collectible X="1032" Y="168" />
+      <Collectible X="616" Y="168" />
+    </Collectibles>
+    <GreenObstacles />
+    <BlackObstacles />
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+    <HighScores>
+      <HighScore name="RandBall&amp;RandRect" value="0" />
+      <HighScore name="RandBall&amp;RandRect" value="0" />
+      <HighScore name="RandBall&amp;RandRect" value="0" />
+      <HighScore name="RandBall&amp;RandRect" value="0" />
+      <HighScore name="RandBall&amp;RandRect" value="0" />
+    </HighScores>
+  </Level1>
+  <Level2>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="120" Y="696" />
+    <SquareStartingPosition X="1128" Y="680" />
+    <Collectibles>
+      <Collectible X="584" Y="584" />
+      <Collectible X="456" Y="152" />
+      <Collectible X="744" Y="152" />
+    </Collectibles>
+    <GreenObstacles />
+    <BlackObstacles>
+      <Obstacle width="160" height="352" X="264" Y="344" centered="false" />
+      <Obstacle width="160" height="352" X="776" Y="344" centered="false" />
+      <Obstacle width="384" height="32" X="408" Y="312" centered="false" />
+    </BlackObstacles>
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+    <HighScores>
+      <HighScore name="RandBall&amp;RandRect" value="23" />
+      <HighScore name="RandBall&amp;RandRect" value="24" />
+      <HighScore name="RandBall&amp;RandRect" value="24" />
+      <HighScore name="RandBall&amp;RandRect" value="24" />
+      <HighScore name="RandBall&amp;RandRect" value="25" />
+    </HighScores>
+  </Level2>
+  <Level3>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="1192" Y="344" />
+    <SquareStartingPosition X="1080" Y="344" />
+    <Collectibles>
+      <Collectible X="120" Y="104" />
+      <Collectible X="520" Y="296" />
+    </Collectibles>
+    <GreenObstacles>
+      <Obstacle width="976" height="352" X="40" Y="408" centered="false" />
+    </GreenObstacles>
+    <BlackObstacles>
+      <Obstacle width="224" height="352" X="1016" Y="408" centered="false" />
+    </BlackObstacles>
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+    <HighScores>
+      <HighScore name="RandBall&amp;RandRect" value="17" />
+      <HighScore name="RandBall&amp;RandRect" value="17" />
+      <HighScore name="RandBall&amp;RandRect" value="17" />
+      <HighScore name="RandBall&amp;RandRect" value="18" />
+      <HighScore name="RandBall&amp;RandRect" value="18" />
+    </HighScores>
+  </Level3>
+  <Level4>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="88" Y="88" />
+    <SquareStartingPosition X="88" Y="552" />
+    <Collectibles>
+      <Collectible X="88" Y="216" />
+      <Collectible X="280" Y="216" />
+      <Collectible X="1176" Y="216" />
+      <Collectible X="856" Y="216" />
+      <Collectible X="696" Y="88" />
+    </Collectibles>
+    <GreenObstacles>
+      <Obstacle width="1200" height="32" X="40" Y="616" centered="false" />
+    </GreenObstacles>
+    <BlackObstacles>
+      <Obstacle width="480" height="32" X="760" Y="136" centered="false" />
+      <Obstacle width="464" height="32" X="40" Y="136" centered="false" />
+    </BlackObstacles>
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+    <HighScores>
+      <HighScore name="RandBall&amp;RandRect" value="54" />
+      <HighScore name="RandBall&amp;RandRect" value="55" />
+      <HighScore name="RandBall&amp;RandRect" value="55" />
+      <HighScore name="RandBall&amp;RandRect" value="55" />
+      <HighScore name="RandBall&amp;RandRect" value="56" />
+    </HighScores>
+  </Level4>
+  <Level5>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="1064" Y="712" />
+    <SquareStartingPosition X="1048" Y="520" />
+    <Collectibles>
+      <Collectible X="1176" Y="328" />
+      <Collectible X="904" Y="328" />
+      <Collectible X="344" Y="328" />
+      <Collectible X="104" Y="328" />
+    </Collectibles>
+    <GreenObstacles>
+      <Obstacle width="1200" height="32" X="40" Y="600" centered="false" />
+    </GreenObstacles>
+    <BlackObstacles>
+      <Obstacle width="384" height="160" X="440" Y="376" centered="false" />
+    </BlackObstacles>
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+    <HighScores>
+      <HighScore name="RandBall&amp;RandRect" value="38" />
+      <HighScore name="RandBall&amp;RandRect" value="40" />
+      <HighScore name="RandBall&amp;RandRect" value="44" />
+      <HighScore name="RandBall&amp;RandRect" value="55" />
+      <HighScore name="RandBall&amp;RandRect" value="62" />
+    </HighScores>
+  </Level5>
+  <Level6>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="104" Y="328" />
+    <SquareStartingPosition X="232" Y="328" />
+    <Collectibles>
+      <Collectible X="1176" Y="632" />
+      <Collectible X="88" Y="632" />
+      <Collectible X="1176" Y="104" />
+    </Collectibles>
+    <GreenObstacles />
+    <BlackObstacles>
+      <Obstacle width="128" height="128" X="936" Y="568" centered="false" />
+      <Obstacle width="160" height="128" X="232" Y="568" centered="false" />
+      <Obstacle width="480" height="112" X="40" Y="456" centered="false" />
+      <Obstacle width="512" height="128" X="728" Y="456" centered="false" />
+      <Obstacle width="160" height="272" X="1080" Y="184" centered="false" />
+    </BlackObstacles>
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+    <HighScores>
+      <HighScore name="" value="14" />
+      <HighScore name="" value="23" />
+      <HighScore name="RandBall&amp;RandRect" value="25" />
+    </HighScores>
+  </Level6>
+  <Level7>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="200" Y="664" />
+    <SquareStartingPosition X="88" Y="680" />
+    <Collectibles>
+      <Collectible X="376" Y="120" />
+      <Collectible X="1096" Y="120" />
+    </Collectibles>
+    <GreenObstacles />
+    <BlackObstacles>
+      <Obstacle width="336" height="48" X="248" Y="712" centered="false" />
+      <Obstacle width="400" height="48" X="840" Y="712" centered="false" />
+    </BlackObstacles>
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+    <HighScores>
+      <HighScore name="RandBall&amp;RandRect" value="24" />
+      <HighScore name="" value="25" />
+      <HighScore name="" value="35" />
+      <HighScore name="RandBall&amp;RandRect" value="36" />
+    </HighScores>
+  </Level7>
+  <Level8>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="120" Y="696" />
+    <SquareStartingPosition X="120" Y="504" />
+    <Collectibles>
+      <Collectible X="120" Y="120" />
+      <Collectible X="456" Y="120" />
+      <Collectible X="760" Y="120" />
+      <Collectible X="1128" Y="680" />
+    </Collectibles>
+    <GreenObstacles>
+      <Obstacle width="1040" height="32" X="40" Y="568" centered="false" />
+    </GreenObstacles>
+    <BlackObstacles>
+      <Obstacle width="48" height="160" X="1032" Y="600" centered="false" />
+      <Obstacle width="96" height="32" X="1144" Y="568" centered="false" />
+      <Obstacle width="144" height="400" X="232" Y="104" centered="false" />
+      <Obstacle width="144" height="400" X="536" Y="104" centered="false" />
+      <Obstacle width="128" height="400" X="872" Y="104" centered="false" />
+    </BlackObstacles>
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+    <HighScores>
+      <HighScore name="" value="42" />
+    </HighScores>
+  </Level8>
+  <Level9>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="248" Y="184" />
+    <SquareStartingPosition X="104" Y="184" />
+    <Collectibles>
+      <Collectible X="1160" Y="88" />
+    </Collectibles>
+    <GreenObstacles>
+      <Obstacle width="880" height="336" X="360" Y="424" centered="false" />
+    </GreenObstacles>
+    <BlackObstacles>
+      <Obstacle width="320" height="496" X="40" Y="264" centered="false" />
+    </BlackObstacles>
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+  </Level9>
+  <Level10>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="88" Y="408" />
+    <SquareStartingPosition X="248" Y="408" />
+    <Collectibles>
+      <Collectible X="1144" Y="104" />
+      <Collectible X="1160" Y="712" />
+    </Collectibles>
+    <GreenObstacles />
+    <BlackObstacles>
+      <Obstacle width="336" height="32" X="40" Y="472" centered="false" />
+      <Obstacle width="480" height="32" X="568" Y="376" centered="false" />
+      <Obstacle width="32" height="64" X="568" Y="408" centered="false" />
+      <Obstacle width="160" height="32" X="440" Y="472" centered="false" />
+      <Obstacle width="192" height="480" X="1048" Y="184" centered="false" />
+    </BlackObstacles>
+    <YellowObstacles />
+    <GreenElevators />
+    <OrangeElevators />
+    <HighScores>
+      <HighScore name="" value="9" />
+    </HighScores>
+  </Level10>
+</Levels>

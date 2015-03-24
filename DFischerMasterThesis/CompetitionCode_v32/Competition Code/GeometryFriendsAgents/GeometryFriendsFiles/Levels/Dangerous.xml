@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Levels>
+  <Level1>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="88" Y="712" />
+    <SquareStartingPosition X="1176" Y="696" />
+    <Collectibles>
+      <Collectible X="88" Y="88" />
+      <Collectible X="1192" Y="88" />
+      <Collectible X="376" Y="552" />
+      <Collectible X="904" Y="552" />
+      <Collectible X="424" Y="120" />
+      <Collectible X="856" Y="120" />
+    </Collectibles>
+    <GreenObstacles>
+      <Obstacle width="32" height="272" X="296" Y="424" centered="false" />
+      <Obstacle width="32" height="272" X="952" Y="424" centered="false" />
+      <Obstacle width="304" height="32" X="488" Y="728" centered="false" />
+      <Obstacle width="560" height="32" X="360" Y="424" centered="false" />
+      <Obstacle width="496" height="32" X="392" Y="488" centered="false" />
+      <Obstacle width="432" height="32" X="424" Y="552" centered="false" />
+      <Obstacle width="112" height="32" X="584" Y="696" centered="false" />
+    </GreenObstacles>
+    <BlackObstacles />
+    <YellowObstacles>
+      <Obstacle width="160" height="32" X="40" Y="200" centered="false" />
+      <Obstacle width="160" height="32" X="1080" Y="200" centered="false" />
+      <Obstacle width="560" height="32" X="360" Y="232" centered="false" />
+      <Obstacle width="560" height="32" X="360" Y="168" centered="false" />
+      <Obstacle width="560" height="32" X="360" Y="40" centered="false" />
+      <Obstacle width="624" height="32" X="328" Y="296" centered="false" />
+      <Obstacle width="688" height="32" X="296" Y="360" centered="false" />
+    </YellowObstacles>
+    <GreenElevators />
+    <OrangeElevators />
+    <Medals>
+      <Medal star="***" desc="Awesome! You Rule." minvalue="0" maxvalue="59" />
+      <Medal star="**" desc="Good, but not enough." minvalue="60" maxvalue="139" />
+      <Medal star="*" desc="Not Bad, but neither good" minvalue="140" maxvalue="400" />
+      <Medal star="" desc="Weak! pfuh..." minvalue="400" />
+    </Medals>
+    <HighScores>
+      <HighScore name="No Name" value="999" />
+      <HighScore name="No Name" value="999" />
+      <HighScore name="No Name" value="999" />
+      <HighScore name="No Name" value="999" />
+      <HighScore name="No Name" value="999" />
+    </HighScores>
+  </Level1>
+  <Level2>
+    <Description />
+    <Tips />
+    <BallStartingPosition X="824" Y="152" />
+    <SquareStartingPosition X="104" Y="104" />
+    <Collectibles>
+      <Collectible X="392" Y="88" />
+      <Collectible X="568" Y="248" />
+      <Collectible X="712" Y="248" />
+      <Collectible X="520" Y="552" />
+      <Collectible X="1192" Y="552" />
+    </Collectibles>
+    <GreenObstacles>
+      <Obstacle width="80" height="80" X="600" Y="520" centered="false" />
+      <Obstacle width="32" height="64" X="536" Y="296" centered="false" />
+      <Obstacle width="32" height="32" X="568" Y="296" centered="false" />
+      <Obstacle width="32" height="32" X="680" Y="296" centered="false" />
+      <Obstacle width="32" height="64" X="712" Y="296" centered="false" />
+    </GreenObstacles>
+    <BlackObstacles>
+      <Obstacle width="400" height="32" X="440" Y="40" centered="false" />
+      <Obstacle width="336" height="32" X="472" Y="72" centered="false" />
+      <Obstacle width="272" height="32" X="504" Y="104" centered="false" />
+      <Obstacle width="208" height="32" X="536" Y="136" centered="false" />
+      <Obstacle width="144" height="32" X="568" Y="168" centered="false" />
+      <Obstacle width="80" height="32" X="600" Y="200" centered="false" />
+      <Obstacle width="80" height="32" X="600" Y="296" centered="false" />
+      <Obstacle width="144" height="32" X="568" Y="328" centered="false" />
+      <Obstacle width="208" height="32" X="536" Y="360" centered="false" />
+      <Obstacle width="272" height="32" X="504" Y="392" centered="false" />
+      <Obstacle width="208" height="32" X="536" Y="424" centered="false" />
+      <Obstacle width="144" height="32" X="568" Y="456" centered="false" />
+      <Obstacle width="80" height="32" X="600" Y="488" centered="false" />
+      <Obstacle width="400" height="32" X="440" Y="728" centered="false" />
+      <Obstacle width="336" height="32" X="472" Y="696" centered="false" />
+      <Obstacle width="272" height="32" X="504" Y="664" centered="false" />
+      <Obstacle width="208" height="32" X="536" Y="632" centered="false" />
+      <Obstacle width="144" height="32" X="568" Y="600" centered="false" />
+      <Obstacle width="32" height="32" X="1208" Y="632" centered="false" />
+      <Obstacle width="64" height="32" X="1176" Y="664" centered="false" />
+      <Obstacle width="96" height="32" X="1144" Y="696" centered="false" />
+      <Obstacle width="128" height="32" X="1112" Y="728" centered="false" />
+      <Obstacle width="32" height="32" X="40" Y="632" centered="false" />
+      <Obstacle width="64" height="32" X="40" Y="664" centered="false" />
+      <Obstacle width="96" height="32" X="40" Y="696" centered="false" />
+      <Obstacle width="128" height="32" X="40" Y="728" centered="false" />
+    </BlackObstacles>
+    <YellowObstacles />
+    <GreenElevators>
+      <Elevator width="464" height="32" startX="40" startY="296" endX="-308" endY="296" collNeeded="2" repeatMov="false" direction="Horizontal-Left" />
+      <Elevator width="272" height="32" startX="840" startY="728" endX="840" endY="296" collNeeded="2" repeatMov="true" direction="Vertical-Up" />
+    </GreenElevators>
+    <OrangeElevators>
+      <Elevator width="528" height="32" startX="712" startY="600" endX="1100" endY="600" collNeeded="3" repeatMov="false" direction="Horizontal-Right" />
+      <Elevator width="32" height="256" startX="504" startY="136" endX="504" endY="400" collNeeded="4" repeatMov="true" direction="Vertical-Down" />
+      <Elevator width="32" height="256" startX="744" startY="136" endX="744" endY="400" collNeeded="4" repeatMov="true" direction="Vertical-Down" />
+    </OrangeElevators>
+    <Medals>
+      <Medal star="***" desc="Awesome! You Rule." minvalue="0" maxvalue="59" />
+      <Medal star="**" desc="Good, but not enough." minvalue="60" maxvalue="139" />
+      <Medal star="*" desc="Not Bad, but neither good" minvalue="140" maxvalue="400" />
+      <Medal star="" desc="Weak! pfuh..." minvalue="400" />
+    </Medals>
+    <HighScores>
+      <HighScore name="No Name" value="999" />
+      <HighScore name="No Name" value="999" />
+      <HighScore name="No Name" value="999" />
+      <HighScore name="No Name" value="999" />
+      <HighScore name="No Name" value="999" />
+    </HighScores>
+  </Level2>
+  <Level3>
+    <Description>
+      <Line value="Welcome to Hell" />
+      <Line value="" />
+      <Line value="So you feel like you rock" />
+      <Line value="at this game?" />
+      <Line value="Then have fun" />
+      <Line value="with this level ;)" />
+    </Description>
+    <Tips />
+    <BallStartingPosition X="1160" Y="680" />
+    <SquareStartingPosition X="168" Y="664" />
+    <Collectibles>
+      <Collectible X="600" Y="88" />
+    </Collectibles>
+    <GreenObstacles />
+    <BlackObstacles />
+    <YellowObstacles />
+    <GreenElevators>
+      <Elevator width="32" height="32" startX="504" startY="616" endX="840" endY="616" collNeeded="0" repeatMov="True" direction="Horizontal-Right" />
+      <Elevator width="32" height="32" startX="840" startY="664" endX="504" endY="664" collNeeded="0" repeatMov="True" direction="Horizontal-Left" />
+    </GreenElevators>
+    <OrangeElevators>
+      <Elevator width="32" height="32" startX="440" startY="168" endX="700" endY="168" collNeeded="0" repeatMov="True" direction="Horizontal-Right" />
+      <Elevator width="32" height="32" startX="792" startY="296" endX="350" endY="296" collNeeded="0" repeatMov="True" direction="Horizontal-Left" />
+      <Elevator width="32" height="32" startX="520" startY="232" endX="800" endY="232" collNeeded="0" repeatMov="True" direction="Horizontal-Right" />
+      <Elevator width="32" height="32" startX="328" startY="424" endX="650" endY="424" collNeeded="0" repeatMov="True" direction="Horizontal-Left" />
+    </OrangeElevators>
+    <Medals>
+      <Medal star="***" desc="Awesome! You Rule." minvalue="0" maxvalue="59" />
+      <Medal star="**" desc="Good, but not enough." minvalue="60" maxvalue="139" />
+      <Medal star="*" desc="Not Bad, but neither good" minvalue="140" maxvalue="400" />
+      <Medal star="" desc="Weak! pfuh..." minvalue="400" />
+    </Medals>
+    <HighScores>
+      <HighScore name="Team" value="48" />
+      <HighScore name="No Name" value="999" />
+      <HighScore name="No Name" value="999" />
+      <HighScore name="No Name" value="999" />
+      <HighScore name="No Name" value="999" />
+    </HighScores>
+  </Level3>
+</Levels>
